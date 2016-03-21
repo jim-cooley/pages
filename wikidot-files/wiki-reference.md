@@ -1,0 +1,5 @@
+* [[[What is a Wiki Site?]]]
+* [[[How to edit pages?]]]
+* [*http://www.wikidot.com/doc:quick-reference Wiki Quick Reference]
+* [*http://www.wikidot.com/doc:wiki-syntax Wiki Syntax]
+* [*http://www.wikidot.com/doc Wiki Documentation Pages]
