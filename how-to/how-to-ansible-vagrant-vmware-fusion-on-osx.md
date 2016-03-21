@@ -12,6 +12,9 @@ manager for OSX applications as well as linux ports.
 
 > Brew Cask is contained as part of the Brew packaging system, so you no longer need to install it
 
+> Note: be sure to check the version of Vagrant, et al installed this way.  Though convenient -- and it seems to be up to
+date -- often the versions included with some of the linux distros are out of date.
+
 Install Brew:
 * Go to http://brew.sh/ and follow the instructions for installing Brew.
 
@@ -26,11 +29,23 @@ brew doctor
 brew install vagrant
 ```
 
-Then create a vagrant directory like 
+Then create a vagrant directory.  I also add a sub-directory for local vagrant boxes [optional]
 
 ```
-mkdir ~/vagrant
+mkdir -p ~/vagrant-boxes
+
 ```
+
+The Vagrant instructions seem to be missing a pre-condition.  Use the following to get the sample precise64
+box up and going on osx:
+
+```
+vagrant box add hashicorp/precise64 # seems to be missing from Hashicorp quickstart
+vagrant init hashicorp/precise64
+vagrant up
+```
+
+> Note: Check the firewall rules to make sure that hashicorp is a valid destination from the Terminal you are using.
 
 ## Links to great articles
 Here are some links to some great articles that served as some of the direction and reference for this.  
