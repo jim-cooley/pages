@@ -19,4 +19,28 @@ After installation, issue the following command and fix any issues that it repor
 ```
 brew doctor 
 ```
+##Querying Product Versions & Updating
+To list installed components, issue the following two commands:
+```
+brew list
+brew cask list
+```
+
+Then update ```brew``` itself before going futher.  This command will make sure the 'recipes' or
+'formulae' that brew uses for the packages are all up to date.  It will also perform any auto-
+update actions on installed components and casks.
+
+```
+brew update
+```
+
+Next, you can manually upgrade individual installed components by using
+```
+brew upgrade <component-name>
+```
+##Verifying configuration
+Issuing a ```brew doctor``` command periodically is a good idea and will check the configuration
+of brew and the environment it relies upon.  It will display either that 'everything is ready to
+brew' or it will issue a list of warnings, and or errors that may need your attention to ensure
+that brew provides the right results.
 

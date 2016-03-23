@@ -1,0 +1,26 @@
+#Installing Docker Toolbox with VMWare Fusion for OSX
+
+Docker Machine is a host 'stub' that works in conjunction with a virtual-machine manager to enable 
+Docker to run on OSX as OSX cannot run Docker natively.  The default way to se this up is with 
+'Docker Machine' (this replaces Boot2Docker) and this has all been packaged nicely together into
+something called 'Docker Toolbox'.  
+
+Today, we're going to modify this so that it will install all of the above, but also add the
+stub to use VMWare Fusion instead of Virtualbox as the VM Host.  The reason for this is that
+VMWare Fusion provides higher performance than Virtualbox when doing nested container operations 
+such as this.
+
+###Step 1: Install VMWare Fusion
+
+###Step 2: Install Docker Toolbox
+Docker Toolbox can be installed from soure, or from the release downloads folder, or ... using 
+the OSX Package manager, ```brew```.  We'll use ```brew``` as it streamlines this process and enables
+auto-updating.  I checked and as of this writing, ```brew``` was installing the latest release of
+Docker, so there's no penalty from that perspetive in going this route.
+
+To verify for yourself:
+```
+brew cask info dockertoolbox
+brew info docker-machine
+brew info docker
+```
