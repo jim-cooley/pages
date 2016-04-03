@@ -1,0 +1,435 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "posts/sublime-settings-examples",
+			"settings":
+			{
+				"buffer_size": 17077,
+				"line_ending": "Unix",
+				"name": "// User/Preferences.sublime-settings"
+			}
+		},
+		{
+			"file": "LICENSE.md",
+			"settings":
+			{
+				"buffer_size": 8913,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Users/dev/Library/Application Support/Sublime Text 3/Packages/Default/Preferences.sublime-settings",
+			"settings":
+			{
+				"buffer_size": 16582,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Users/dev/Library/Application Support/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+			"settings":
+			{
+				"buffer_size": 1502,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"last_filter": "v",
+		"selected_items":
+		[
+			[
+				"v",
+				"Vagrant: Init"
+			],
+			[
+				"pa",
+				"Package Control: Install Package"
+			],
+			[
+				"p",
+				"Package Control: Install Package"
+			],
+			[
+				"mark",
+				"Markdown Preview: Preview in Browser"
+			],
+			[
+				"pack",
+				"Package Control: Install Package"
+			],
+			[
+				"package",
+				"Package Control: Install Package"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 458.0
+	},
+	"console":
+	{
+		"height": 204.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '2915d1851351e5ee549c20394736b442' + '8bc59f460fa1548d1514676163dafc88'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Volumes/HD3/repository/projects-public/jim-cooley/pages",
+		"/Volumes/HD3/repository/projects-public/jim-cooley/pages/posts",
+		"/Volumes/HD3/repository/projects-public/jim-cooley/pages/vagrant"
+	],
+	"file_history":
+	[
+		"/Volumes/HD3/repository/projects-public/jim-cooley/sublime-settings/xenon-buildsystem.sublime-build",
+		"/Users/dev/Library/Application Support/Sublime Text 3/Packages/Default/Preferences.sublime-settings",
+		"/Volumes/HD3/repository/projects-public/jim-cooley/pages/posts/sublime-markdown-preview",
+		"/Users/dev/tosort.txt",
+		"/Users/dev/sorted.txt",
+		"/Users/dev/_bcli.snap.sh",
+		"/Users/dev/my_env.sh",
+		"/Volumes/HD3/user/clinic-web/keys/ssl-cert/ev-cert-sha2-d9.be.99.f5.08.2c.71.b0/amddentistry.com-apache/d9be99f5082c71b0.crt",
+		"/Users/dev/_bcli.cache",
+		"/Users/dev/1.tmp",
+		"/Users/dev/2.tmp",
+		"/Users/dev/3a.tmp",
+		"/Users/dev/3.tmp",
+		"/Users/dev/2a.tmp",
+		"/Users/dev/_bash.cached",
+		"/Users/dev/Library/Application Support/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/Users/dev/Library/Application Support/Sublime Text 3/Packages/User/Distraction Free.sublime-settings",
+		"/Volumes/HD3/repository/settings/profiles/_min/bin/install",
+		"/Users/dev/_trace.fn",
+		"/Volumes/HD3/repository/settings/profiles/_min/bin/bashrc",
+		"/Users/dev/baserc",
+		"/Users/common/keys/KeePass.kdbx",
+		"/Users/dev/dev.yaml",
+		"/Volumes/Nepal/volumes/.fseventsd/0000000001678329",
+		"/Users/dev/Library/Containers/com.agilebits.onepassword-osx/Data/Library/Preferences/com.agilebits.onepassword-osx.plist",
+		"/Volumes/HD3/volumes/user/dev/_profile",
+		"/Volumes/HD3/volumes/user/dev/_bashrc",
+		"/Volumes/common/bin/.bashrc",
+		"/Volumes/HD 3 1/common/bin/fs-add-links"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 93.0,
+		"where_history":
+		[
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": true,
+		"find_history":
+		[
+			"vagrant",
+			"vagrat",
+			"theme",
+			"trim",
+			"save_env",
+			"bsave",
+			"bcache",
+			"|W",
+			"^\\^\\[ \\]\\*",
+			"^\\^[ ]*",
+			"my_usage",
+			"usage",
+			"alias",
+			"loadenv",
+			"pushenv",
+			"^",
+			".cached",
+			"_bash",
+			"font",
+			"COMMON",
+			"CONFIG",
+			"COMMON",
+			"commonbin",
+			"interactive",
+			"function"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"saveenv",
+			"save_env",
+			"cache",
+			"|\\W",
+			"|\\\\W",
+			"(^|\\W+)",
+			"load-env",
+			"save-env",
+			"\\^",
+			".cache",
+			"_bcli",
+			"CLIROOT",
+			"CONFIGROOT",
+			"CONFIG"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 3,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "posts/sublime-settings-examples",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 17077,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								708,
+								708
+							]
+						],
+						"settings":
+						{
+							"auto_name": "// User/Preferences.sublime-settings",
+							"syntax": "Packages/JavaScript/JSON.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "LICENSE.md",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 8913,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								214,
+								214
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/MarkdownEditing/Markdown.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "/Users/dev/Library/Application Support/Sublime Text 3/Packages/Default/Preferences.sublime-settings",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 16582,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								16582,
+								16582
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JSON.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 4914.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "/Users/dev/Library/Application Support/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1502,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1306,
+								1306
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JSON.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 315.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 26.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "pages.sublime-project",
+	"replace":
+	{
+		"height": 48.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"/Volumes/HD3/repository/projects-public/jim-cooley/bash.cli/bash-packages.sublime-workspace"
+			]
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+		"_vintageous_reset_during_init": true,
+		"vintage":
+		{
+			"_cmdline_cd": "/Users/dev/Library/Application Support/Sublime Text 3/Packages"
+		}
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 213.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
