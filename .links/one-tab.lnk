@@ -1,0 +1,1281 @@
+https://www.google.com/search?q=how+google+provisions+osx+with+ansible&oq=how+google+provisions+osx+with+ansible&aqs=chrome..69i57.7781j0j7&sourceid=chrome&ie=UTF-8#q=how+google+provisions+mac+with+ansible&start=20 | how google provisions mac with ansible - Google Search
+http://docs.ansible.com/ansible/playbooks_vault.html#vault | Vault — Ansible Documentation
+http://docs.ansible.com/ansible/playbooks_best_practices.html#best-practices-for-variables-and-vaults | Best Practices — Ansible Documentation
+http://ryaneschinger.com/blog/ansible-quick-start/ | Ansible Quick Start - A Brief Introduction · Ryan Eschinger Consulting
+https://news.ycombinator.com/item?id=9049218 | Ask HN: Best practices for OS X dev environments | Hacker News
+https://blog.deimos.fr/2015/01/13/vagrant-provision-vms-and-containers-with-ansible/ | Vagrant: provision vms and containers with Ansible | Deimosfr Blog
+https://dzone.com/articles/how-ansible-and-docker-fit | How Ansible and Docker Fit: Using Ansible to Bootstrap and Coordinate Docker Containers - DZone DevOps
+https://dzone.com/devops-tutorials-tools-news | DevOps
+https://dzone.com/articles/minimum-viable-architecture | How to Create a Minimum Viable Architecture - DZone DevOps
+https://gist.github.com/ttddyy/45f87408134ae6872d72 | Prepare release for xenon · GitHub
+https://atlas.hashicorp.com/boxes/search?order=desc&page=1&provider=&q=docker+vmware&sort=updated&utf8=%E2%9C%93 | Discover Vagrant Boxes | Atlas by HashiCorp
+https://atlas.hashicorp.com/omalley/boxes/centos6_x64 | Vagrant box omalley/centos6_x64 | Atlas by HashiCorp
+https://atlas.hashicorp.com/townsen/boxes/ubuntu-14.10 | Vagrant box townsen/ubuntu-14.10 | Atlas by HashiCorp
+https://atlas.hashicorp.com/townsen/boxes/centos-7.0 | Vagrant box townsen/centos-7.0 | Atlas by HashiCorp
+https://atlas.hashicorp.com/jpease/boxes/ubuntu-trusty | Vagrant box jpease/ubuntu-trusty | Atlas by HashiCorp
+https://atlas.hashicorp.com/yogendra/boxes/docker-vmware | Vagrant box yogendra/docker-vmware | Atlas by HashiCorp
+https://atlas.hashicorp.com/segfly/boxes/boot2docker | Vagrant box segfly/boot2docker | Atlas by HashiCorp
+
+https://www.vagrantup.com/docs/provisioning/ansible_common.html | Common Ansible Options - Provisioning - Vagrant by HashiCorp
+https://www.vagrantup.com/docs/provisioning/ | Provisioning - Vagrant by HashiCorp
+https://www.vagrantup.com/docs/provisioning/ansible_local.html | Ansible Local - Provisioning - Vagrant by HashiCorp
+https://www.vagrantup.com/docs/provisioning/ansible.html | Ansible - Provisioning - Vagrant by HashiCorp
+https://www.vagrantup.com/docs/boxes/base.html | Creating a Base Box - Vagrant by HashiCorp
+https://www.vagrantup.com/docs/vmware/configuration.html | Configuration- VMware Provider - Vagrant by HashiCorp
+
+https://www.google.com/search?q=vmware+fusion+configuration&oq=vmware+fusion+configuration&aqs=chrome..69i57j0l5.6944j0j7&sourceid=chrome&ie=UTF-8#q=vmware+fusion+cli | vmware fusion cli - Google Search
+https://kb.vmware.com/selfservice/microsites/search.do?language=en_US&cmd=displayKC&externalId=1014782 | VMware KB: Editing the .vmx file for your VMware Fusion virtual machine
+http://blogs.vmware.com/kb/2010/04/how-to-edit-the-configuration-vmx-file-for-your-vmware-fusion-virtual-machine.html | How to edit the configuration (.vmx) file for your VMware Fusion virtual machine - Support Insider - VMware Blogs
+https://www.vmware.com/pdf/fusion_getting_started_11.pdf | https://www.vmware.com/pdf/fusion_getting_started_11.pdf
+http://hplgit.github.io/teamods/ubuntu/vmware/mac.html | How To Install VMWare Fusion with Ubuntu on a Mac
+http://www.virtuallyghetto.com/2015/02/quick-tip-how-to-enable-memory-overcommitment-in-vmware-fusion.html | Quick Tip – How to enable memory overcommitment in VMware Fusion? | virtuallyGhetto
+https://www.vmware.com/pdf/vix162_vmrun_command.pdf | https://www.vmware.com/pdf/vix162_vmrun_command.pdf
+https://www.vmware.com/support/ws55/doc/ws_learning_cli_vmrun.html | Command Line Application
+http://jamesreubenknowles.com/vmrun-fusion-2132 | Control VMware Fusion from the Command Line | James Reuben Knowles
+http://openstack.prov12n.com/restart-vmware-fusion-networking-from-the-command-line/ | Restart VMware Fusion Networking from the Command Line | Professional OpenStack
+http://artandlogic.com/2013/10/running-vmware-fusion-6-headless/ | Running VMWare Fusion 6 Headless - Art & Logic: Custom Software Development Company
+https://www.craig-wright.com/2012/12/01/vmware-fusion-networking-tips-and-tricks/ | VMware Fusion Networking Tips and Tricks | Craig (Robert) Wright
+https://github.com/thbishop/fission | thbishop/fission: command line tool to manage vmware fusion vms
+
+https://atlas.hashicorp.com/jdupuich/boxes/docker-machine | Vagrant box jdupuich/docker-machine | Atlas by HashiCorp
+https://atlas.hashicorp.com/alejandrofcarrera/boxes/precise64-docker | Vagrant box alejandrofcarrera/precise64-docker | Atlas by HashiCorp
+https://atlas.hashicorp.com/mathie/boxes/boot2docker | Vagrant box mathie/boot2docker | Atlas by HashiCorp
+
+https://wiki.apache.org/incubator/BeamProposal | BeamProposal - Incubator Wiki
+
+http://techblog.netflix.com/2015/09/moving-from-asgard-to-spinnaker.html | The Netflix Tech Blog: Moving from Asgard to Spinnaker
+https://github.com/spinnaker | spinnaker
+https://www.google.com/search?q=apache+beam&oq=apache+beam&aqs=chrome..69i57j0l5.2119j0j7&sourceid=chrome&ie=UTF-8 | apache beam - Google Search
+http://stackoverflow.com/questions/tagged/google-cloud-dataflow | Newest 'google-cloud-dataflow' Questions - Stack Overflow
+http://incubator.apache.org/projects/beam.html | Beam Incubation Status - Apache Incubator
+https://cloud.google.com/dataflow/blog/dataflow-beam-and-spark-comparison | Dataflow/Beam & Spark: A Programming Model Comparison - Cloud Dataflow — Google Cloud Platform
+
+http://www.virtuallyghetto.com/2015/11/using-ansible-to-provision-a-kubernetes-cluster-on-vmware-photon.html | Using Ansible to provision a Kubernetes Cluster on VMware Photon | virtuallyGhetto
+https://stackspace.wordpress.com/2015/07/03/vsphere-cli-on-os-x-almost/ | vSphere CLI on OS X (almost) | Stack Space
+
+https://cloud.google.com/solutions/google-compute-engine-management-puppet-chef-salt-ansible | Compute Engine Management with Puppet, Chef, Salt, and Ansible - Solutions — Google Cloud Platform
+https://cloud.google.com/products/ | Products & Services | Google Cloud Platform — Google Cloud Platform
+https://cloud.google.com/solutions/real-time-bidder-solution-for-google-cloud-platform | Real-Time Bidder Solution for Google Cloud Platform - Solutions — Google Cloud Platform
+https://cloud.google.com/dataproc/ | Cloud Dataproc - Managed Spark & Managed Hadoop Service — Google Cloud Platform
+https://cloud.google.com/datalab/ | Cloud Datalab - Interactive Data Insights Tool — Google Cloud Platform
+https://cloud.google.com/dataflow/ | Cloud Dataflow - Batch & Stream Data Processing — Google Cloud Platform
+https://cloud.google.com/ml/ | Cloud Machine Learning - Predictive Analytics — Google Cloud Platform
+https://www.tensorflow.org/ | TensorFlow -- an Open Source Software Library for Machine Intelligence
+http://blog.kubernetes.io/2016/03/scaling-neural-network-image-classification-using-Kubernetes-with-TensorFlow-Serving.html | Kubernetes: Scaling neural network image classification using Kubernetes with TensorFlow Serving
+http://googleresearch.blogspot.com/2016/01/teach-yourself-deep-learning-with.html | Research Blog: Teach Yourself Deep Learning with TensorFlow and Udacity
+http://googleresearch.blogspot.com/2015/11/tensorflow-googles-latest-machine_9.html | Research Blog: TensorFlow - Google’s latest machine learning system, open sourced for everyone
+http://www.bloomberg.com/news/articles/2015-10-26/google-turning-its-lucrative-web-search-over-to-ai-machines | Google Turning Its Lucrative Web Search Over to AI Machines - Bloomberg Business
+http://googleresearch.blogspot.com/2016/03/machine-learning-in-cloud-with.html | Research Blog: Machine Learning in the Cloud, with TensorFlow
+https://cloud.google.com/stackdriver/ | Stackdriver - Hybrid Monitoring — Google Cloud Platform
+https://cloud.google.com/deployment-manager/ | Cloud Deployment Manager - Design, and Manage Cloud Solutions — Google Cloud Platform
+https://spencer.gibb.us/blog/2014/02/03/introducing-battleschool/ | Introducing Battleschool · Spencer Gibb
+
+https://www.google.com/search?q=kafka+v+lucene&oq=kafka+v+lucene&aqs=chrome..69i57.5391j0j7&sourceid=chrome&ie=UTF-8 | kafka v lucene - Google Search
+http://www.slideshare.net/rahuldausa/real-time-analytics-with-apache-kafka-and-apache-spark | Real time Analytics with Apache Kafka and Apache Spark
+http://grokbase.com/t/kafka/users/134qv2e191/lucene-revolution | [Kafka-users] Lucene Revolution - Grokbase
+https://lucidworks.com/blog/2013/07/16/intro-to-apache-kafka/ | Intro to Apache Kafka - Lucidworks.com
+https://www.loggly.com/blog/loggly-chose-elasticsearch-reliable-scalable-log-management/ | Why Loggly Chose ElasticSearch Over Solr
+http://events.linuxfoundation.org/sites/events/files/slides/Apache-Big-Data.pdf | events.linuxfoundation.org/sites/events/files/slides/Apache-Big-Data.pdf
+https://en.wikipedia.org/wiki/Apache_Kafka | Apache Kafka - Wikipedia, the free encyclopedia
+
+https://www.google.com/search?q=man+how+to+write+a+manpage&oq=man+how+to+write+a+manpage&aqs=chrome..69i57.9702j0j7&sourceid=chrome&ie=UTF-8 | man how to write a manpage - Google Search
+http://www.schweikhardt.net/man_page_howto.html | Linux Man Page Howto
+http://www.linuxhowtos.org/System/creatingman.htm | Linux Howtos: System -> Creating Your Own MAN Page
+http://liw.fi/manpages/ | Writing manual pages
+http://www.tldp.org/HOWTO/Man-Page/ | Linux Man Page Howto
+http://www.cyberciti.biz/faq/linux-unix-creating-a-manpage/ | HowTo: Linux / UNIX Create a Manpage
+
+https://linux.slashdot.org/story/14/08/18/191251/linux-kernel-git-repositories-add-2-factor-authentication | Linux Kernel Git Repositories Add 2-Factor Authentication - Slashdot
+https://slashdot.org/tag/git | Slashdot Items Tagged With 'git'
+https://ask.slashdot.org/story/13/09/10/1330216/ask-slashdot-how-best-to-synchronize-projects-between-shared-drive-and-pcs | Ask Slashdot: How Best To Synchronize Projects Between Shared Drive and PCs? - Slashdot
+https://www.openhub.net/explore/projects | Projects Explore - Open Hub
+
+https://owncloud.org/ | ownCloud.org
+
+https://en.wikipedia.org/wiki/Open_Hub | Open Hub - Wikipedia, the free encyclopedia
+https://news.ycombinator.com/item?id=2391758 | Github, the future of book publishing? | Hacker News
+http://sdtimes.com/what-topped-the-github-charts-in-2015/ | What topped the GitHub charts in 2015 - SD Times
+https://news.ycombinator.com/item?id=10904671 | Dear GitHub | Hacker News
+http://techcrunch.com/2015/07/29/github-raises-250m-series-b-round-to-take-risks/ | GitHub Raises $250M Series B Round Led By Sequoia Capital
+https://www.google.com/search?q=future+of+github&oq=future+of+github&aqs=chrome..69i57j69i60.2891j0j7&sourceid=chrome&ie=UTF-8#q=future+of+github&newwindow=1&safe=active&tbs=qdr:y | future of github - Google Search
+http://www.infoq.com/news/2016/01/python-moving-to-github | Python will be Moving to GitHub
+http://thenextweb.com/dd/2016/02/04/reports-indicate-github-is-having-major-issues-regarding-the-companys-future/ | Reports indicate GitHub is having major issues regarding the company's future
+https://news.slashdot.org/story/15/06/17/038254/github-seeks-funding-at-2-billion-valuation | GitHub Seeks Funding At $2 Billion Valuation - Slashdot
+http://www.wired.com/2015/06/problem-putting-worlds-code-github/ | The Problem With Putting All the World’s Code in GitHub | WIRED
+
+https://www.google.com/search?q=caltran+sf+to+sjc&oq=caltran+sf+to+sjc&aqs=chrome..69i57.5630j0j7&sourceid=chrome&ie=UTF-8 | caltran sf to sjc - Google Search
+http://www.bayrailalliance.org/sjc_sfo_public_transit | SJC and SFO via public transit | BayRail Alliance
+http://www.flysfo.com/to-from/public-transit | Public Transit | http://www.flysfo.com/
+https://www.tripadvisor.com/ShowTopic-g33020-i417-k2892871-Transportation_from_san_jose_to_san_francisco-San_Jose_California.html | transportation from san jose to san francisco - San Jose Forum - TripAdvisor
+http://www.vta.org/ | Santa Clara Valley Transportation Authority
+https://www.sfmta.com/ | San Francisco Municipal Transportation Agency (SFMTA, transit, streets, taxi)
+http://www.flysanjose.com/fl/travelers.php?page=ground_trans/public | Mineta San José International/Silicon Valley Airport - Traveler Information
+http://www.bart.gov/ | Bay Area Rapid Transit | bart.gov
+https://www.amtrak.com/home | Train & Bus Tickets - National Railroad - USA & Canada | Amtrak
+http://www.acerail.com/ | Home - ACE | Altamont Corridor Express
+
+http://blogs.microsoft.com/blog/2016/01/29/future-of-work-advancing-ai-on-github-and-bings-predictions-for-upcoming-primaries-and-caucuses-weekend-reading-jan-29-edition/ | Future of Work, advancing AI on GitHub and Bing’s predictions for upcoming primaries and caucuses — Weekend Reading: Jan. 29 edition - The Official Microsoft Blog
+
+https://www.vagrantup.com/docs/getting-started/boxes.html | Boxes - Getting Started - Vagrant by HashiCorp
+
+https://www.google.com/search?q=vagrant+executing+script+on+entry+to+box&oq=vagrant+executing+script+on+entry+to+box&aqs=chrome..69i57l2j69i65l3j69i60.10599j0j7&sourceid=chrome&ie=UTF-8 | vagrant executing script on entry to box - Google Search
+https://www.digitalocean.com/community/questions/how-to-run-a-shell-script-with-vagrant-digital-ocean-provider | How to run a shell script with Vagrant Digital Ocean provider? | DigitalOcean
+http://superuser.com/questions/701735/run-script-on-host-machine-during-vagrant-up | Run script on host machine during vagrant up - Super User
+https://github.com/phinze/vagrant-host-shell | phinze/vagrant-host-shell: simple vagrant provisioner that executes commands on the host
+https://github.com/emyl/vagrant-triggers | emyl/vagrant-triggers: Allow the definition of arbitrary scripts that will run on the host before and/or after Vagrant commands.
+https://www.vagrantup.com/docs/provisioning/shell.html | Shell Scripts - Provisioning - Vagrant by HashiCorp
+
+http://stackoverflow.com/questions/2953081/how-can-i-write-a-here-doc-to-a-file-in-bash-script | linux - How can I write a here doc to a file in Bash script? - Stack Overflow
+http://tldp.org/LDP/abs/html/here-docs.html | Here Documents
+
+https://www.google.com/search?q=vagrant+trigger+client+shell+command&oq=vagrant+trigger+client+shell+command&aqs=chrome..69i57.8046j0j7&sourceid=chrome&ie=UTF-8 | vagrant trigger client shell command - Google Search
+https://sysadmincasts.com/episodes/45-learning-ansible-with-vagrant-part-2-4 | Learning Ansible with Vagrant (Part 2/4)
+https://docs.vagrantup.com/v2/provisioning/ansible.html | https://docs.vagrantup.com/v2/provisioning/ansible.html is not available
+https://codingnetworker.com/2015/09/use-vagrant-to-run-the-python-examples/ | Use Vagrant to run the Python examples | Coding Networker Blog
+http://stackoverflow.com/questions/19796929/vagrant-provision-on-host | shell - Vagrant Provision on Host - Stack Overflow
+
+https://www.google.com/search?q=ansible+push+file&oq=ansible+push+&aqs=chrome.0.0j69i57j0l4.6567j0j7&sourceid=chrome&ie=UTF-8 | ansible push file - Google Search
+http://docs.ansible.com/ansible/intro_installation.html | Installation — Ansible Documentation
+http://docs.ansible.com/ansible/intro_getting_started.html | Getting Started — Ansible Documentation
+http://docs.ansible.com/ansible/intro_adhoc.html | Introduction To Ad-Hoc Commands — Ansible Documentation
+http://docs.ansible.com/ansible/intro_inventory.html | Inventory — Ansible Documentation
+http://cobbler.github.io/# | Cobbler - Linux install and update server
+https://github.com/cobbler/cobbler | cobbler/cobbler: everyone's favorite Linux Install & Update Server
+http://docs.ansible.com/ansible/copy_module.html | copy - Copies files to remote locations. — Ansible Documentation
+http://docs.ansible.com/ansible/synchronize_module.html | synchronize - Uses rsync to make synchronizing file paths in your playbooks quick and easy. — Ansible Documentation
+http://docs.ansible.com/ansible/list_of_files_modules.html | Files Modules — Ansible Documentation
+http://stackoverflow.com/questions/25576871/ansible-best-practice-to-copy-directories | Ansible best practice to copy directories - Stack Overflow
+
+https://www.google.com/search?q=ansible+disk+management&oq=ansible+disk+management&aqs=chrome..69i57.19648j0j7&sourceid=chrome&ie=UTF-8 | ansible disk management - Google Search
+http://docs.ansible.com/ansible/filesystem_module.html | filesystem - Makes file system on block device — Ansible Documentation
+http://docs.ansible.com/ansible/mount_module.html | mount - Control active and configured mount points — Ansible Documentation
+http://stackoverflow.com/questions/26981907/using-ansible-to-manage-disk-space | Using ansible to manage disk space - Stack Overflow
+
+https://www.google.com/search?q=ubuntu&oq=ubuntu&aqs=chrome..69i57j69i60j69i59j69i65l2j69i60.3143j0j7&sourceid=chrome&ie=UTF-8#newwindow=1&safe=active&q=ubuntu+setting+up+lvm+on+an+unpartitioned+unformatted+device | ubuntu setting up lvm on an unpartitioned unformatted device - Google Search
+http://stackoverflow.com/questions/12313384/how-to-view-unallocated-free-space-on-a-hard-disk-through-terminal | linux - How to view unallocated free space on a hard disk through terminal - Stack Overflow
+http://serverfault.com/questions/477566/ubuntu-how-to-find-unallocated-partition-free-space | Ubuntu: How to find unallocated partition/free space? - Server Fault
+https://wiki.ubuntu.com/Lvm | Lvm - Ubuntu Wiki
+http://linuxbsdos.com/2014/11/08/a-beginners-guide-to-disks-and-disk-partitions-in-linux/ | A Beginner's Guide To Disks And Disk Partitions In Linux | LinuxBSDos.com
+http://superuser.com/questions/157981/how-to-find-out-what-disk-drives-are-installed-in-a-ubuntu-server | How to find out what disk drives are installed in a Ubuntu server - Super User
+http://www.howtogeek.com/51873/how-to-setup-software-raid-for-a-simple-file-server-on-ubuntu/ | How to Setup Software RAID for a Simple File Server on Ubuntu
+http://wavcentral.com/sounds/movies/dune/dtrap.mp3 | wavcentral.com/sounds/movies/dune/dtrap.mp3
+http://www.howtogeek.com/howto/36568/what-is-logical-volume-management-and-how-do-you-enable-it-in-ubuntu/ | What is Logical Volume Management and How Do You Enable It in Ubuntu?
+http://searchitchannel.techtarget.com/feature/Ubuntu-Linux-installation-and-hard-drive-setup-guide | Ubuntu Linux installation and hard drive setup guide
+
+https://github.com/jim-cooley/docs | jim-cooley/docs
+https://github.com/vmware/xenon/wiki/Hosting-Custom-Services-On-Xenon | Hosting Custom Services On Xenon · vmware/xenon Wiki
+https://github.com/vmware/xenon/wiki/Docker-Images | Docker Images · vmware/xenon Wiki
+
+https://godoc.org/github.com/docker/machine | machine - GoDoc
+https://www.google.com/search?q=go+gopath&oq=go+gopath&aqs=chrome..69i57j0l5.3901j0j7&sourceid=chrome&ie=UTF-8 | go gopath - Google Search
+https://www.google.com/search?q=goroot+v+gopath&oq=goroot+v+gopath&aqs=chrome..69i57j0l2.4627j0j7&sourceid=chrome&ie=UTF-8 | goroot v gopath - Google Search
+http://stackoverflow.com/questions/7970390/what-should-be-the-values-of-gopath-and-goroot | go - what should be the values of GOPATH and GOROOT? - Stack Overflow
+
+https://www.google.com/search?q=cli+app+in+go&oq=cli+app+in+go&aqs=chrome..69i57.2756j0j7&sourceid=chrome&ie=UTF-8 | cli app in go - Google Search
+https://realpython.com/blog/python/python-ruby-and-golang-a-command-line-application-comparison/ | Python, Ruby, and Golang: A Command-Line Application Comparison - Real Python
+https://godoc.org/github.com/codegangsta/cli | cli - GoDoc
+https://github.com/robmerrell/comandante | robmerrell/comandante: Simple command line interfaces for go
+https://github.com/spf13/cobra | spf13/cobra: A Commander for modern Go CLI interactions
+https://gobyexample.com/environment-variables | Go by Example: Environment Variables
+
+https://www.turnkeylinux.org/blog/extending-lvm | Extending an LVM volume: Physical volumes (partitions) -> Volume groups -> Logical volume -> Filesystem | TurnKey GNU/Linux Blog
+
+https://www.google.com/search?q=ansible+ERROR!+Missing+target+hosts&oq=ansible+ERROR!+Missing+target+hosts&aqs=chrome..69i57j0.1813j0j7&sourceid=chrome&ie=UTF-8 | ansible ERROR! Missing target hosts - Google Search
+https://github.com/jaugustin/vagrant-ansible-local/issues/1 | provision fails with "ERROR: provided hosts list is empty" · Issue #1 · jaugustin/vagrant-ansible-local
+https://github.com/PyBossa/pybossa/blob/39ca8649a358bda852efae390acd5b0b3bbe96cc/Vagrantfile#L33 | pybossa/Vagrantfile at 39ca8649a358bda852efae390acd5b0b3bbe96cc · PyBossa/pybossa
+
+https://www.google.com/search?q=open+source+documentation+tools+java+pdf+html+python+go&oq=open+source+documentation+tools+java+pdf+html+python+go&aqs=chrome..69i57.11774j0j7&sourceid=chrome&ie=UTF-8#newwindow=1&safe=active&q=open+source+doctool+java+pdf+html+python+go | open source doctool java pdf html python go - Google Search
+http://swagger.io/open-source-integrations/ | Open Source Integrations – Swagger
+http://www.opendocumentformat.org/developers/ | OpenDocument Format for developers
+http://blog.pamelafox.org/2011_05_01_archive.html | May 2011
+https://www.davidfischer.name/2015/08/generating-pdfs-with-and-without-python/ | Generating PDFs With (and Without) Python | David Fischer dot Name
+https://kapeli.com/docsets | Docset Generation Guide - Kapeli
+https://github.com/PharkMillups/beautiful-docs | PharkMillups/beautiful-docs: Pointers to useful, well-written, and otherwise beautiful documentation.
+https://github.com/vhf/free-programming-books/blob/master/free-programming-books.md | free-programming-books/free-programming-books.md at master · vhf/free-programming-books
+https://github.com/google/or-tools/blob/master/documentation/faq/faq/documentation.html | or-tools/documentation.html at master · google/or-tools
+http://www.scratchbox.org/download/files/sbox-releases/1.0/doc/doctools.html | Scratchbox's documentation tools
+
+https://www.google.com/search?q=vmware+fusion+open+source&oq=vmware+fusion+open+source&aqs=chrome..69i57j0l5.4950j0j7&sourceid=chrome&ie=UTF-8 | vmware fusion open source - Google Search
+http://alternativeto.net/software/vmware-fusion/?license=free | Free or Open Source VMware Fusion Alternatives - AlternativeTo.net
+http://alternativeto.net/software/bootcamp/?license=free | Free or Open Source Boot Camp Alternatives - AlternativeTo.net
+http://alternativeto.net/software/openvz/?license=free | Free or Open Source OpenVZ Alternatives - AlternativeTo.net
+http://alternativeto.net/software/vmmanager/?license=free | Free or Open Source VMmanager Alternatives - AlternativeTo.net
+
+https://www.google.com/search?q=irc+commands+no+announct&oq=irc+commands+no+announct&aqs=chrome..69i57.7381j0j7&sourceid=chrome&ie=UTF-8 | irc commands no announct - Google Search
+http://www.ircbeginner.com/opvinfo/opvinfo.html | IRC Beginner - Information about being an Op or Voice
+http://www.ircbeginner.com/ircinfo/mirc.html | #Beginner - mIRC Tutorial, Excellent for Beginners
+https://www.drupal.org/irc/setting-up | Setting up IRC | Drupal.org
+https://www.drupal.org/node/1259614 | Common IRC Commands | Drupal.org
+https://irssi.org/documentation/startup/ | Irssi - Startup How-To
+https://scripts.irssi.org/ | Irssi Scripts
+
+https://www.google.com/search?q=iphone+location+sharing+history&oq=iphone+location+sharing+history&aqs=chrome..69i57.10827j0j7&sourceid=chrome&ie=UTF-8 | iphone location sharing history - Google Search
+http://www.iclarified.com/36198/how-to-view-the-location-history-of-your-iphone | How to View the Location History of Your iPhone - iClarified
+http://www.businessinsider.com/how-to-see-location-history-iphone-2015-4 | How to see location history on iPhone - Business Insider
+http://bgr.com/2015/04/01/iphone-location-tracking-map/ | iPhone location tracking map: How to access it on iOS 8 | BGR
+https://www.google.com/search?q=family+sharing+location+history&oq=family+sharing+location+history&aqs=chrome..69i57.4199j0j4&sourceid=chrome&ie=UTF-8#q=iphone+family+location+history | iphone family location history - Google Search
+https://support.google.com/plus/answer/2998354?hl=en | Share your location - Google+ Help
+http://www.greenbot.com/article/2466498/how-to-manage-your-google-location-history.html | How to manage your Google location history | Greenbot
+https://support.google.com/accounts/answer/4388034?hl=en | Location History for iPhone & iPad - Accounts Help
+http://gps.about.com/od/gpsproductoverview/fl/How-to-Find-Your-Location-History-By-Google-Maps-or-iPhone.htm | Find Your Location History in Google Maps or iPhone
+https://www.google.com/search?biw=1217&bih=782&q=iphone+location+history+file&revid=0&sa=X&ved=0ahUKEwiFufTXgdDLAhUY6WMKHdO1CDYQ1QIIYigC | iphone location history file - Google Search
+https://www.google.com/search?biw=1217&bih=782&q=iphone+location+history+from+computer&revid=0&sa=X&ved=0ahUKEwiFufTXgdDLAhUY6WMKHdO1CDYQ1QIIYSgB#q=iphone+location+history+from+computer&tbs=qdr:y | iphone location history from computer - Google Search
+http://www.cnet.com/how-to/how-to-delete-and-disable-your-google-location-history/ | Where to find the map that shows Google is tracking your location - CNET
+https://support.google.com/maps/answer/6258979?co=GENIE.Platform%3DDesktop&hl=en | Edit or delete your timeline - Computer - Google Maps Help
+http://www.idownloadblog.com/2011/04/22/closer-look-at-iphones-location-tracking-database/ | Closer Look at iPhone’s Location-Tracking Database
+https://itunes.apple.com/us/app/points-personal-location-history/id892787828?mt=8 | Points - Personal Location History on the App Store
+https://discussions.apple.com/message/29891196#29891196 | location history | Apple Support Communities
+http://www.syracuse.com/news/index.ssf/2011/04/apple_iphone_tracking_users_lo.html | Apple iPhone tracking users' location history - should this surprise (or scare) you? | syracuse.com
+http://petewarden.github.io/iPhoneTracker/ | petewarden/iPhoneTracker @ GitHub
+http://www.today.com/_news/2011/04/20/6501660-your-iphone-is-secretly-tracking-you-all-the-time | 404 Error
+http://www.wired.com/2011/04/iphone-tracks/ | iPhone Tracks Your Every Move, and There’s a Map for That | WIRED
+https://support.apple.com/kb/PH2696?locale=en_US | iCloud: Find My iPhone overview
+http://www.guidingtech.com/19468/locate-family-friends-iphone-ios-find/ | Locate Family or Friends on iPhone/iOS With Find My Friends
+
+https://github.com/vmware/xenon/wiki/gerrit-workflow | Gerrit Workflow · vmware/xenon Wiki · GitHub
+https://review.ec.eng.vmware.com/Documentation/install.html | Gerrit Code Review - Standalone Daemon Installation Guide
+https://review.ec.eng.vmware.com/Documentation/config-themes.html | Gerrit Code Review - Themes
+
+https://www.backblaze.com/blog/cloud-storage-hardware/ | The Hardware Inside B2 Cloud Storage - Storage Pod 5.0
+http://www.overclock.net/t/570195/backblaze-want-to-build-your-own-67-terabyte-storage-solution | [Backblaze] Want to build your own 67 terabyte storage solution?
+http://www.c0t0d0s0.org/archives/5899-Some-perspective-to-this-DIY-storage-server-mentioned-at-Storagemojo.html | Some perspective to this DIY storage server mentioned at Storagemojo - c0t0d0s0.org
+https://www.backblaze.com/blog/ | Backblaze Blog | The Life of a Cloud Backup Company
+http://www.amazon.com/Western-Digital-Cache-Desktop-WD4003FZEX/dp/B00FJRS5BA | Amazon.com: Western Digital 4TB 7200 RPM SATA 6 Gb/s 64MB Cache, 3.5-Inch Desktop Hard Disk Drive (WD4003FZEX): Computers & Accessories
+https://www.backblaze.com/blog/whats-diff-ram-vs-storage/ | Memory vs. Storage: What They Are and What They Do
+https://www.backblaze.com/blog/day-life-datacenter-part/ | A Day in the Life of a Datacenter, Part I
+https://www.google.com/search?q=backblaze+drive+reliability+report&oq=blackblaze+drive+rel&aqs=chrome.2.69i57j0l5.5412j0j4&sourceid=chrome&ie=UTF-8 | backblaze drive reliability report - Google Search
+http://www.45drives.com/wiki/index.php/New_Sil3826_Backplanes_for_Pod_2.0 | New Sil3826 Backplanes for Pod 2.0 - 45 Drives Technical Information Wiki
+https://www.backblaze.com/blog/designing-the-next-storage-pod/ | Agile Development for Hardware Design - A Case Study
+https://www.backblaze.com/blog/backblaze-labs-hardware-design/ | Backblaze Labs: Center for Hardware Design
+https://www.backblaze.com/blog/best-hard-drive-q4-2014/ | What is the Best Hard Drive?
+https://www.backblaze.com/blog/hard-drive-reliability-q3-2015/ | Hard Drive Failure: Analysis of 49,056 Hard Drives
+https://www.backblaze.com/blog/hard-drive-reliability-stats-for-q2-2015/ | The Most Reliable Hard Drive 2015
+http://www.amazon.com/dp/B00M8ABHVQ?psc=1 | Amazon.com: SanDisk Ultra II 960GB SATA III 2.5-Inch 7mm Height Solid State Drive (SSD) with Read Up To 550MB/s- SDSSDHII-960G-G25: Computers & Accessories
+
+https://www.google.com/search?q=jenkins+build+log+parser&oq=jenkins+build+log+par&aqs=chrome.0.0j69i57j0l3.9317j0j7&sourceid=chrome&ie=UTF-8#q=build+times+jenkins | build times jenkins - Google Search
+http://zeroturnaround.com/rebellabs/top-10-jenkins-featuresplugins/ | Top 10 Jenkins Must-Have Features/Plugins | zeroturnaround.com
+https://pythonhosted.org/jenkinsapi/_modules/jenkinsapi/api.html | jenkinsapi.api — JenkinsAPI 0.2.26 documentation
+https://wiki.jenkins-ci.org/display/JENKINS/Global+Build+Stats+Plugin | Global Build Stats Plugin - Jenkins - Jenkins Wiki
+https://wiki.jenkins-ci.org/display/JENKINS/Project+Build+Times | Project Build Times - Jenkins - Jenkins Wiki
+https://wiki.jenkins-ci.org/display/JENKINS/build-metrics-plugin | build-metrics-plugin - Jenkins - Jenkins Wiki
+https://wiki.jenkins-ci.org/display/JENKINS/Log+Parser+Plugin | Log Parser Plugin - Jenkins - Jenkins Wiki
+https://wiki.jenkins-ci.org/display/JENKINS/Console+Parser+Plugin | Console Parser Plugin - Jenkins - Jenkins Wiki
+https://www.google.com/search?q=parsing+stage+times+from+jenkins+log&oq=parsing+stage+times+from+jenkins+log&aqs=chrome..69i57.6231j0j4&sourceid=chrome&ie=UTF-8 | parsing stage times from jenkins log - Google Search
+https://blog.profitbricks.com/51-best-devops-tools-for-devops-engineers/ | 51 Best DevOps Tools for #DevOps Engineers | ProfitBricks Blog
+http://stackoverflow.com/questions/17142768/log-parsing-rules-in-jenkins | regex - Log parsing rules in Jenkins - Stack Overflow
+http://blog.lusis.org/blog/2015/10/12/terraform-modules-for-fun-and-profit/ | Terraform Modules for Fun and Profit - blog dot lusis
+http://blog.lusis.org/blog/2012/03/06/graphs-in-operations/ | Graphs in Operations - blog dot lusis
+http://blog.lusis.org/blog/2012/01/22/scale10x-recap/ | Scale10x Recap - blog dot lusis
+http://blog.lusis.org/blog/2011/10/18/rollbacks-and-other-deployment-myths/ | Rollbacks and Other Deployment Myths - blog dot lusis
+http://blog.lusis.org/blog/2011/10/18/deploy-all-the-things/ | Deploy ALL the Things - blog dot lusis
+http://blog.lusis.org/blog/2011/08/22/the-configuration-management-divide/ | The Configuration Management Divide - blog dot lusis
+
+http://www.wufoo.com/ | Online Form Builder with Cloud Storage Database | Wufoo
+
+http://mailchimp.com/?awid=41511564&awag=21123181614&awad=79458043014&awkw=mailchimp%27&pid=GAW&source=website | Send Better Email | MailChimp
+
+https://www.google.com/search?q=if+this+then+that+desktop&oq=if+this+then+that+desk&aqs=chrome.0.0j69i57.3854j0j4&sourceid=chrome&ie=UTF-8#q=zapier+ifttt+alternatives | zapier ifttt alternatives - Google Search
+http://stackstorm.com/community/ | Community - StackStorm
+https://docs.stackstorm.com/overview.html | StackStorm Overview — StackStorm 1.3.2 documentation
+https://github.com/StackStorm | StackStorm · GitHub
+https://github.com/StackStorm/st2 | GitHub - StackStorm/st2: StackStorm (aka "IFTTT for Ops") is event-driven automation commonly used for auto-remediation, security responses, facilitated troubleshooting, complex deployments, and more. Includes rules engine, workflow,1800+ integrations (see /st2contrib), native ChatOps and so forth. Installer available at http://docs.stackstorm.com/install/index.html. Ping us on slack - https://stackstorm-community.slack.com/.
+https://docs.stackstorm.com/install/index.html | Installation — StackStorm 1.3.2 documentation
+https://docs.stackstorm.com/start.html | Quick Start — StackStorm 1.3.2 documentation
+https://docs.stackstorm.com/install/all_in_one.html | All-in-one Installer — StackStorm 1.3.2 documentation
+http://www.cloudslang.io/#/ | CloudSlang - Orchestration as Code
+https://github.com/CloudSlang/cloud-slang-content | GitHub - CloudSlang/cloud-slang-content: Ready-Made CloudSlang Flows and Operations
+https://github.com/CloudSlang/score | GitHub - CloudSlang/score: CloudSlang Orchestration Engine
+https://github.com/CloudSlang/cloud-slang | GitHub - CloudSlang/cloud-slang: CloudSlang Language, CLI and Builder
+https://github.com/CloudSlang/cloudslang-cli | GitHub - CloudSlang/cloudslang-cli: npm cloudslang-cli
+https://github.com/CloudSlang/score-content-sdk | GitHub - CloudSlang/score-content-sdk
+https://github.com/CloudSlang/atom-cloudslang-package | GitHub - CloudSlang/atom-cloudslang-package: Atom package for CloudSlang support
+https://docs.stackstorm.com/actions.html#ref-actions-converting-scripts | Actions — StackStorm 1.3.2 documentation
+https://github.com/StackStorm/st2/tree/master/contrib/examples | st2/contrib/examples at master · StackStorm/st2 · GitHub
+https://github.com/stackstorm/st2contrib | GitHub - StackStorm/st2contrib: StackStorm integration packs for many common tools and also helpful tools to build integrations and automations with StackStorm.
+https://hubot.github.com/ | HUBOT
+https://docs.stackstorm.com/ | Welcome to StackStorm‘s documentation! — StackStorm 1.3.2 documentation
+https://docs.stackstorm.com/install/sources.html | Run From Sources — StackStorm 1.3.2 documentation
+https://stackstorm.com/2016/02/15/improvments-to-chatops-pack-development-user-story-in-st2-1-4dev/#more-5427 | Improvments to ChatOPS Pack Development User Story in ST2 1.4dev - StackStorm
+https://stackstorm.com/2016/01/25/stackstorm-quicktip-shorten-pack-development-feedback-loop/ | StackStorm QuickTip: ChatOps your pack dev workflow - StackStorm
+https://stackstorm.com/2016/01/21/stackstorm-and-chatops-actions-with-confirmation/?doing_wp_cron=1453746230.2963230609893798828125 | StackStorm and ChatOps Actions with confirmation - StackStorm
+https://github.com/StackStorm/st2contrib | GitHub - StackStorm/st2contrib: StackStorm integration packs for many common tools and also helpful tools to build integrations and automations with StackStorm.
+https://bip.io/ | bip.io - For People and Robots
+https://github.com/bipio-server/bipio | GitHub - bipio-server/bipio: The bip.io API Server
+https://github.com/bipio-server | bip.io - For People and Robots · GitHub
+http://lifehacker.com/5839234/if-this-then-that-integrates-and-automates-your-online-tools | If This Then That Integrates and Automates Your Online Tools
+http://www.pcmag.com/article2/0,2817,2424077,00.asp | The 110 Best IFTTT Recipes | PCMag.com
+https://itunes.apple.com/us/app/if-by-ifttt/id660944635?mt=8 | IF by IFTTT on the App Store
+https://hubot.github.com/docs/adapters/ | HUBOT
+https://github.com/slackhq/hubot-slack | GitHub - slackhq/hubot-slack: This is a Hubot adapter to use with Slack.
+https://www.google.com/search?q=hubot+irc+adapter&oq=hubot+irc+&aqs=chrome.1.69i57j0l5.3750j0j7&sourceid=chrome&ie=UTF-8 | hubot irc adapter - Google Search
+https://github.com/nandub/hubot-irc | GitHub - nandub/hubot-irc: IRC adapter for Hubot
+https://www.npmjs.com/package/hubot-irc2 | hubot-irc2
+http://stackoverflow.com/questions/25512302/how-to-use-hubot-in-slack | heroku - How to use Hubot in Slack - Stack Overflow
+
+http://redmonk.com/dberkholz/2013/01/11/adding-work-to-social-not-social-to-work-irc-chatops-and-hubot/ | Adding work to social, not social to work: IRC, #ChatOps, and Hubot – Donnie Berkholz's Story of Data
+https://www.google.com/search?q=chatops&oq=chatops&aqs=chrome..69i57j69i65l3j0l2.1279j0j4&sourceid=chrome&ie=UTF-8 | chatops - Google Search
+https://www.atlassian.com/software/jira/service-desk?_mid=7c5cc9fffcc6ce4cd31ab949ae72035d&aceid=&adposition=1t1&adgroup=22488815062&campaign=369654982&creative=85800305062&device=c&keyword=chatops&matchtype=e&network=g&placement=&gclid=COzK5oScw8sCFceCfgodIGsDJg | JIRA Service Desk | IT Help Desk & Ticketing | Atlassian
+http://blogs.atlassian.com/2016/01/what-is-chatops-adoption-guide/ | Atlassian Blogs
+https://www.pagerduty.com/blog/what-is-chatops/ | What is ChatOps? And How do I Get Started?
+http://slides.com/carolnichols/chatops#/ | ChatOps by Carol Nichols
+http://blog.librato.com/posts/fire-in-the-hole | Tales of an Ops Team: Fire in the Hole — Librato Blog
+http://blog.markitx.com/2014/02/20/how-we-use-githubs-hubot-and-chat/ | How We Use GitHub’s Hubot and Chat to Drive AWS Deployments at MarkITx - Part 1 of n
+http://tech.toptable.co.uk/blog/2013/11/22/beginning-a-journey-to-chatops-with-hubot/ | Beginning a journey to chatops with Hubot - OpenTable Tech UK Blog
+https://www.youtube.com/watch?v=pCVvYCjvoZI | ChatOps: Augmented Reality for Ops - YouTube
+http://blog.flowdock.com/2014/11/11/chatops-devops-with-hubot/ | ChatOps: Everything about deployments right inside your chat
+https://www.reddit.com/r/chatops/ | chatops: conversation driven development
+https://github.com/StackStorm/showcase-ansible-chatops | GitHub - StackStorm/showcase-ansible-chatops: Vagrant Demo showing ChatOps with Ansible
+https://www.flowdock.com/integrations | Tools That Integrate With Flowdock
+http://nadarei.co/mina/ | Mina
+https://www.cloudpipes.com/pricing | Plans and Pricing | Cloudpipes
+https://usetrace.com/ | Usetrace — Software Testing for Agile Teams
+https://doorbell.io/ | Doorbell.io - Gather in-app user feedback, simply, across multiple platforms, for free!
+http://maestrodev.wix.com/maestrodev#!plug-ins/c1df1 | MaestroDev :: DevOps Orchestration :: Continuous Integration | PLUG-INS
+https://xebialabs.com/products/xl-release/plugins/ | Plugins
+https://docs.xebialabs.com/xl-release/index.html | XL Release || XebiaLabs documentation
+
+https://npackd.appspot.com/ | Npackd
+https://www.google.com/search?q=virtualenvwrapper&oq=virtualenvwrapper&aqs=chrome..69i57j0l5.5014j0j7&sourceid=chrome&es_sm=119&ie=UTF-8#q=virtualenv+venv+pyenv | virtualenv venv pyenv - Google Search
+https://bitbucket.org/virtualenvwrapper/virtualenvwrapper/src | virtualenvwrapper / virtualenvwrapper / source / — Bitbucket
+https://github.com/pypa/virtualenv | GitHub - pypa/virtualenv: Virtual Python Environment builder
+http://virtualenvwrapper.readthedocs.org/en/latest/ | virtualenvwrapper 4.7.1.dev13 — virtualenvwrapper 4.7.1.dev13 documentation
+http://virtualenvwrapper.readthedocs.org/en/latest/plugins.html | Extending Virtualenvwrapper — virtualenvwrapper 4.7.1.dev13 documentation
+http://virtualenvwrapper.readthedocs.org/en/latest/command_ref.html | Command Reference — virtualenvwrapper 4.7.1.dev13 documentation
+https://virtualenvwrapper.readthedocs.org/en/latest/ | virtualenvwrapper 4.7.1.dev13 — virtualenvwrapper 4.7.1.dev13 documentation
+https://docs.python.org/3/library/venv.html | 28.3. venv — Creation of virtual environments — Python 3.5.1 documentation
+https://docs.python.org/3/library/venv.html#venv-def | 28.3. venv — Creation of virtual environments — Python 3.5.1 documentation
+https://hg.python.org/cpython/file/3.5/Lib/venv | cpython: efc9836e0c83 /Lib/venv/
+https://hg.python.org/cpython/file/3.5/Lib/venv/__main__.py | cpython: efc9836e0c83 Lib/venv/__main__.py
+http://stackoverflow.com/questions/29950300/what-is-the-relationship-between-virtualenv-and-pyenv | python - What is the relationship between virtualenv and pyenv? - Stack Overflow
+https://fijiaaron.wordpress.com/2015/06/18/using-pyenv-with-virtualenv-and-pip-cheat-sheet/ | Using pyenv with virtualenv and pip cheat sheet | Fijiaaron
+
+https://www.google.com/search?q=oss+sonatype&oq=oss+sonatype&aqs=chrome..69i57j0l5.2191j0j7&sourceid=chrome&es_sm=119&ie=UTF-8 | oss sonatype - Google Search
+https://www.google.com/search?q=bintray+vs+artifactory&oq=bintry+vs+&aqs=chrome.1.69i57j0l5.5230j0j7&sourceid=chrome&es_sm=119&ie=UTF-8 | bintray vs artifactory - Google Search
+https://bintray.com/ | Bintray - Download Center Automation & Distribution w. Private Repositories
+https://www.jfrog.com/confluence/display/RTF/Push+to+Bintray | Push to Bintray - Artifactory - JFrog Wiki
+http://gradle.org/frederic-simon-on-bintray-and-artifactory-at-gradle-summit-2013/ | Gradle Artifactory & Bintray: Frederic Simon at Gradle Summit 2013
+http://www.oracle.com/technetwork/articles/java/enterprise-binaries-2227134.html | Mastering Binaries with Hudson, Maven, Git, Artifactory, and Bintray
+https://www.lightbend.com/blog/migrating-repos-to-bintray | We're migrating our repos to Bintray and you shouldn't notice any changes | @lightbend
+
+https://www.leighhalliday.com/creating-ruby-dsl | Creating a Ruby DSL | Leigh Halliday
+https://robots.thoughtbot.com/writing-a-domain-specific-language-in-ruby | Writing a Domain-Specific Language in Ruby
+http://www.martinfowler.com/bliki/DomainSpecificLanguage.html | DomainSpecificLanguage
+http://engineering.gusto.com/benefits-of-writing-a-dsl/ | Benefits of Writing a DSL in Ruby
+
+https://www.backblaze.com/blog/petabytes-on-a-budget-how-to-build-cheap-cloud-storage/ | Petabytes on a budget: How to build cheap cloud storage
+https://www.google.com/search?q=cost+of+a+petabyte+over+time+since+2000&oq=cost+of+a+petabyte+over+time+since+2000&aqs=chrome..69i57.8125j0j7&sourceid=chrome&es_sm=119&ie=UTF-8 | cost of a petabyte over time since 2000 - Google Search
+http://www.mkomo.com/cost-per-gigabyte | matt komorowski - a history of storage cost
+http://www.computerweekly.com/feature/What-does-a-petabyte-look-like | What does a petabyte look like?
+http://www.jcmit.com/diskprice.htm | Disk Drive Prices (1955-2015)
+http://highscalability.com/blog/2012/9/11/how-big-is-a-petabyte-exabyte-zettabyte-or-a-yottabyte.html | How big is a Petabyte, Exabyte, Zettabyte, or a Yottabyte? - High Scalability -
+http://www.numbersleuth.org/trends/the-amazing-history-of-information-storage-how-small-has-become-beautiful/ | The Amazing History of Information Storage: How Small Has Become Beautiful
+
+http://diginomica.com/2015/01/09/will-ifttt-workflow-zapier-teach-us-connect-apps/ | Will IFTTT, Workflow, Zapier teach us all to connect apps? – diginomica
+http://www.techmeme.com/141215/p7#a141215p7 | Techmeme: Workflow lets you easily chain together and automate hundreds of actions across iOS apps (Alex Heath/Cult of Mac)
+http://www.cultofmac.com/305826/workflow/# | Workflow is a powerful automation tool for iOS
+https://www.goclio.com/features/integrations/zapier/?utm_source=google&utm_medium=cpc&utm_campaign=Clio_SEARCH-US-CA-NonBrand&device=c&cvosrc=ppc.google.zapier&cvo_campaign=&cvo_crid=85040460736&Matchtype=e | Clio | Zapier integration
+http://lifehacker.com/5954495/zapier-is-a-webapp-automation-service-just-like-ifttt--but-with-many-more-app-connections | Zapier Is a Webapp-Automation Service Just Like IFTTT—But With Many More App Connections
+https://zapier.com/zapbook/ | The Zapbook - Explore Case Studies, Use Cases, Customers, and Apps - Zapier
+https://apps.shopify.com/zapier | Zapier – Ecommerce Plugins for Online Stores – Shopify App Store
+https://zapier.com/app/explore | The best apps. Better together. - Zapier
+https://www.groovehq.com/blog/zapier-interview-with-wade-foster | How Zapier Went From Zero to 600,000+ Users in Just Three Years
+https://zapier.com/how-it-works/ | How It Works - Zapier
+https://appexchange.salesforce.com/listingDetail?listingId=a0N30000007pJYIEA2 | Zapier - Automate Your Cross-App Workflows - Zapier - AppExchange
+https://zapier.com/app/pricing | The best apps. Better together. - Zapier
+https://www.google.com/search?q=zapier+free+alternative&revid=0&sa=X&ved=0ahUKEwjDufX-8cDLAhVL4mMKHbDuAUoQ1QIIbSgA | zapier free alternative - Google Search
+https://www.google.com/search?q=ifttt+pricing&revid=0&sa=X&ved=0ahUKEwjDufX-8cDLAhVL4mMKHbDuAUoQ1QIIcSgE | ifttt pricing - Google Search
+https://www.getapp.com/it-management-software/a/zapier/compare/ifttt/ | Zapier vs IFTTT Comparison Chart of Features | GetApp
+https://list.ly/list/5YL-11-plus-alternatives-to-ifttt-slash-zapier-slash-cloudwork-web-automation-services | 11+ Alternatives to IFTTT / Zapier / Cloudwork - Web Automation Services | A Listly List
+
+https://www.google.com/search?q=vagrant+boxes&oq=vagrant+boxes&aqs=chrome..69i57j0l5.3413j0j7&sourceid=chrome&es_sm=119&ie=UTF-8 | vagrant boxes - Google Search
+https://www.vagrantup.com/docs/boxes.html | Boxes - Vagrant by HashiCorp
+https://atlas.hashicorp.com/boxes/search | Discover Vagrant Boxes | Atlas by HashiCorp
+https://github.com/mitchellh/vagrant/wiki/Available-Vagrant-Boxes | Available Vagrant Boxes · mitchellh/vagrant Wiki · GitHub
+https://atlas.hashicorp.com/bento | bento | Atlas by HashiCorp
+https://github.com/chef/bento | GitHub - chef/bento: Packer templates for building minimal Vagrant baseboxes
+
+https://blog.engineyard.com/2014/building-a-vagrant-box | Building a Vagrant Box from Start to Finish
+https://www.vagrantup.com/docs/multi-machine/ | Multi-Machine - Vagrant by HashiCorp
+http://www.vagrantbox.es/ | A list of base boxes for Vagrant - Vagrantbox.es
+https://atlas.hashicorp.com/boxes/search?utm_source=vagrantcloud.com&vagrantcloud=1 | Discover Vagrant Boxes | Atlas by HashiCorp
+https://www.vagrantup.com/docs/vmware/boxes.html | Box Format - VMware Provider - Vagrant by HashiCorp
+https://www.skoblenick.com/vagrant/creating-a-custom-box-from-scratch/ | Creating a Custom Vagrant Box from Scratch - Ryan Skoblenick
+
+https://www.google.com/search?q=how+do+you+make+brew+packages&oq=how+do+you+make+brew+packages&aqs=chrome..69i57.12605j0j7&sourceid=chrome&es_sm=119&ie=UTF-8 | how do you make brew packages - Google Search
+https://github.com/Homebrew/homebrew/blob/master/share/doc/homebrew/FAQ.md | homebrew/FAQ.md at master · Homebrew/homebrew · GitHub
+https://github.com/Homebrew/homebrew/blob/master/share/doc/homebrew/Formula-Cookbook.md | homebrew/Formula-Cookbook.md at master · Homebrew/homebrew · GitHub
+http://userprimary.net/posts/2009/09/28/writing-packages-for-homebrew-on-os-x/ | Writing packages for homebrew on OS X - User Primary
+http://apple.stackexchange.com/questions/97065/how-do-i-write-a-homebrew-recipe | osx - how do I write a homebrew recipe? - Ask Different
+http://brewformulas.org/ | Search and discover Homebrew formulae — BrewFormulas
+
+https://www.google.com/search?q=setting+up+vagrant+with+vmware+fusion&oq=setting+up+vagrant+with+vmware+fusion&aqs=chrome..69i57.9935j0j7&sourceid=chrome&es_sm=119&ie=UTF-8 | setting up vagrant with vmware fusion - Google Search
+https://www.vagrantup.com/docs/vmware/installation.html | Installation - VMware Provider - Vagrant by HashiCorp
+https://www.vagrantup.com/docs/plugins/providers.html | Custom Providers - Plugin Development - Vagrant by HashiCorp
+https://www.vagrantup.com/docs/providers/ | Providers - Vagrant by HashiCorp
+https://github.com/mitchellh/vagrant-aws/tree/master/example_box | vagrant-aws/example_box at master · mitchellh/vagrant-aws · GitHub
+https://www.vagrantup.com/docs/vmware/usage.html | Usage - VMware Provider - Vagrant by HashiCorp
+
+https://www.google.com/search?q=stack-kicker&oq=stack-kicker&aqs=chrome..69i57j69i65j0j69i60.6229j0j7&sourceid=chrome&es_sm=119&ie=UTF-8 | stack-kicker - Google Search
+https://www.google.com/search?q=saltstack&oq=saltstack&aqs=chrome..69i57j0j69i65j0l3.1982j0j7&sourceid=chrome&es_sm=119&ie=UTF-8 | saltstack - Google Search
+https://www.chemie.fu-berlin.de/chemnet/use/info/make/make_16.html | GNU make - Complex Makefile Example
+https://www.google.com/search?q=make&oq=make&aqs=chrome..69i57j69i65l3j0j69i60.928j0j7&sourceid=chrome&es_sm=119&ie=UTF-8#q=gnu+make+tutorial | gnu make tutorial - Google Search
+https://www.google.com/search?q=gnu+make+sample+makefiles&oq=gnu+make+sample+makefiles&aqs=chrome..69i57j0l2.9032j0j7&sourceid=chrome&es_sm=119&ie=UTF-8 | gnu make sample makefiles - Google Search
+https://www.gnu.org/software/make/manual/html_node/Simple-Makefile.html | GNU make: Simple Makefile
+http://www.cs.colby.edu/maxwell/courses/tutorials/maketutor/ | A Simple Makefile Tutorial
+https://www.cs.swarthmore.edu/~newhall/unixhelp/howto_makefiles.html | https://www.cs.swarthmore.edu/~newhall/unixhelp/howto_makefiles.html
+http://www.delorie.com/djgpp/doc/ug/larger/makefiles.html | Guide: Makefiles
+http://www.cs.columbia.edu/~bert/code/bmatching/BMatchingSolver/Release/sources.mk | www.cs.columbia.edu/~bert/code/bmatching/BMatchingSolver/Release/sources.mk
+https://www3.ntu.edu.sg/home/ehchua/programming/cpp/gcc_make.html | GCC and Make - A Tutorial on how to compile, link and build C/C++ applications
+https://e2e.ti.com/support/development_tools/code_composer_studio/f/81/t/58746 | How to generate from CCS makefile, objects.mk, sources.mk, subdir.mk that are not hard coded with path for tools, include directory etc. - Code Composer Forum - Code Composer Studio - TI E2E Community
+http://testlab.ics.uci.edu/interstate/sources.mk | testlab.ics.uci.edu/interstate/sources.mk
+https://www.google.com/search?q=sources.make&oq=sources.make&aqs=chrome..69i57j0l5.5064j0j7&sourceid=chrome&es_sm=119&ie=UTF-8#q=sources.mk | sources.mk - Google Search
+http://stackoverflow.com/questions/8092573/makefiles-building-source-from-another-folder-with-obj-files-into-subfolder-of | Makefiles, building source from another folder with obj files into subfolder of current? - Stack Overflow
+
+https://www.google.com/search?q=build+tool+based+on+make&oq=build+tool+based+on+make&aqs=chrome..69i57.6687j0j7&sourceid=chrome&es_sm=119&ie=UTF-8#q=build+tool+based+on+make&start=20 | build tool based on make - Google Search
+https://en.wikipedia.org/wiki/List_of_build_automation_software | List of build automation software - Wikipedia, the free encyclopedia
+http://hyperpolyglot.org/build | Build Tools: Make, Rake, Ant, Sbt - Hyperpolyglot
+http://fastmake.org/ | Fastmake - Fast software build automation tool. GNU make enhancement
+https://atom.io/packages/build-tools-make | build-tools-make
+https://wiki.python.org/moin/ConfigurationAndBuildTools | ConfigurationAndBuildTools - Python Wiki
+https://www.smashingmagazine.com/2015/10/building-web-applications-with-make/ | Building Web Software With Make – Smashing Magazine
+https://github.com/apenwarr/redo | GitHub - apenwarr/redo: Smaller, easier, more powerful, and more reliable than make. An implementation of djb's redo.
+https://ninja-build.org/ | Ninja, a small build system with a focus on speed
+https://ninja-build.org/build.ninja.html | build.ninja
+https://github.com/ninja-build/ninja/wiki/List-of-generators-producing-ninja-build-files | List of generators producing ninja build files · ninja-build/ninja Wiki · GitHub
+https://github.com/google/blueprint | GitHub - google/blueprint
+http://mesonbuild.com/samples.html | The Meson® Build System
+https://ninja-build.org/manual.html | The Ninja build system
+https://ninja-build.org/manual.html#ref_rule | The Ninja build system
+
+http://scpd.stanford.edu/design/overview/program-overview.php | Program Overview | Design Thinking Course - Stanford Innovation Masters Series
+
+https://github.com/jim-cooley | jim-cooley (Jim Cooley)
+https://github.com/vmware/xenon/wiki/Example-Service-Tutorial | Example Service Tutorial · vmware/xenon Wiki
+https://github.com/vmware/xenon/wiki/DnsService | DnsService · vmware/xenon Wiki
+
+https://cncf.io/about | About | Cloud Native Computing Foundation
+http://thenewstack.io/google-learned-borg-container-management/ | What Google Learned From the Borg About Container Management - The New Stack
+http://thenewstack.io/google-lifts-the-veil-on-borg-revealing-apache-auroras-heritage/ | Google Lifts the Veil on Borg, Revealing Apache Aurora’s Heritage - The New Stack
+http://thenewstack.io/googles-data-architecture-and-what-it-takes-to-work-at-scale/ | Google's Data Architecture and What it Takes to Work at Scale - The New Stack
+http://thenewstack.io/google-inevitable-future-container-based-architectures/ | Google on the Inevitable Future of Container-Based Architectures - The New Stack
+http://thenewstack.io/coreos-debuts-tectonic-a-commercial-kubernetes-distro/ | CoreOS Debuts Tectonic, a Commercial Kubernetes Distro - The New Stack
+https://coreos.com/blog/announcing-tectonic/ | Announcing Tectonic: The Commercial Kubernetes Platform
+https://medium.com/on-docker/evaluating-container-platforms-at-scale-5e7b44d93f2c#.pbxx2w5ai | Evaluating Container Platforms at Scale — On Docker — Medium
+https://github.com/allingeek/ecps-data | allingeek/ecps-data: Result data for the article, "Evaluating Container Platforms at Scale."
+https://twitter.com/kelseyhightower/status/707657849518817280 | Kelsey Hightower on Twitter: "Kubernetes and Docker Swarm focus on different things. Kubernetes aims to build a complete, all in one, framework for distributed systems."
+http://thenewstack.io/eclipse-che-provides-portable-shared-development-workspaces-built-runtimes/ | Eclipse Che: Portable Shared Development Workspaces with Built-In Runtimes - The New Stack
+http://lists.cncf.io/pipermail/cncf-toc/2016-March/000080.html | [cncf-toc] [RESULT] Kubernetes Vote by TOC
+http://thenewstack.io/ | Home - The New Stack
+
+chrome://extensions/ | Extensions
+
+https://www.google.com/search?q=os+x+how+to+add+network+route&oq=os+x+how+to+add+network+route&aqs=chrome..69i57j0l2.14492j0j4&sourceid=chrome&es_sm=119&ie=UTF-8 | os x how to add network route - Google Search
+http://blog.remibergsma.com/2012/03/04/howto-quickly-add-a-route-in-mac-osx/ | HOWTO quickly add a route in Mac OSX « Remi Bergsma's blog
+https://glazenbakje.wordpress.com/2012/11/07/add-or-delete-static-routes-apple-mac-os-x-mountain-lion/ | Add or delete static routes Apple Mac OS X Mountain Lion | Glazenbakje's Weblog
+https://meinit.nl/add-permanent-static-route-mac-os-x | Add a permanent static route to Mac OS X | Me in IT
+http://superuser.com/questions/756134/how-to-direct-ip-route-through-specific-interface-in-os-x | osx - How to direct IP route through specific interface in OS X? - Super User
+https://discussions.apple.com/thread/1572513?tstart=0 | Persistent static routes. | Apple Support Communities
+
+https://www.google.com/search?q=heroku+fog+cloud&oq=heroku+fog+cloud&aqs=chrome..69i57.15855j0j7&sourceid=chrome&es_sm=119&ie=UTF-8#q=heroku+fog+cloud&tbs=qdr:y | heroku fog cloud - Google Search
+https://www.quora.com/What-are-the-cons-to-NoOps-PaaS-i-e-App-Fog-Heroku-etc | What are the cons to NoOps/PaaS (i.e. App Fog, Heroku, etc)? - Quora
+https://www.quora.com/topic/Cloud-Foundry | Cloud Foundry - Quora
+https://gigaom.com/2011/09/28/remember-one-language-paas-heroku-adds-python/ | Heroku adds Python to bring more choice to PaaS | Gigaom
+https://www.appfog.com/ | AFv1 Retirement
+
+https://www.google.com/search?q=platform+as+a+servie+what+is+no+ops&oq=platform+as+a+servie+what+is+no+ops&aqs=chrome..69i57.6391j0j4&sourceid=chrome&es_sm=119&ie=UTF-8 | platform as a servie what is no ops - Google Search
+https://www.accenture.com/us-en/as-a-service-operations-model?c=ops_usasasrvcfy16psgs&n=As_a_Service_-_US&KW_ID=s9lALCEcC_dc|pcrid|88508431037 | As a Service Model – Accenture Operations
+https://www.quora.com/Platform-as-a-Service-PaaS/What-is-NoOps | What is NoOps? - Quora
+http://www.computerweekly.com/opinion/When-DevOps-isnt-enough-try-NoOps | When DevOps isn't enough, try NoOps
+http://www.computerweekly.com/news/4500248597/Choose-Digital-CTO-makes-case-for-NoOps-software-delivery-approach | Choose Digital CTO makes case for "NoOps" software delivery approach
+http://www.computerweekly.com/feature/Why-the-CIO-should-loosen-the-grip-on-enterprise-IT | Why the CIO should loosen the grip on enterprise IT
+http://www.computerweekly.com/news/2240227797/Microsoft-cuts1500-fake-apps-in-Windows-Store-cleanup | Microsoft cuts 1,500 fake apps in Windows Store cleanup
+http://searchdatacenter.techtarget.com/news/2240147621/From-DevOps-to-NoOps-IT-operations-pros-dwindle-developers-rise | From DevOps to NoOps: IT operations pros dwindle, developers rise
+http://searchcloudapplications.techtarget.com/tip/Is-fail-fast-the-next-trend-in-app-development | Is fail fast the next trend in app development?
+http://searchvmware.techtarget.com/feature/Which-VMware-automation-tool-works-for-you | Which VMware automation tool works for you?
+http://blogs.forrester.com/mike_gualtieri/11-02-07-i_dont_want_devops_i_want_noops | I Don't Want DevOps. I Want NoOps. | Forrester Blogs
+
+https://www.google.com/search?q=How+do+VMware+containers+work%3F&oq=How+do+VMware+containers+work%3F&aqs=chrome..69i57j69i60.629j0j7&sourceid=chrome&es_sm=119&ie=UTF-8 | How do VMware containers work? - Google Search
+http://thenewstack.io/vmwares-photon-platform-and-how-it-treats-containers/ | VMware’s Photon Platform and How it Treats Containers - The New Stack
+http://thenewstack.io/amid-container-vs-vm-hype-vmware-draws-docker-closer/ | Amid Container vs VM Hype, VMware Draws Docker Closer - The New Stack
+http://blogs.vmware.com/cto/vmware-containers-containers-without-compromise/ | Office of the CTO | VMware + Containers = Containers without Compromise
+http://www.zdnet.com/article/vmware-goes-container-crazy-with-vsphere-integrated-containers/ | ​VMware goes container crazy with vSphere integrated containers | ZDNet
+https://docs.docker.com/machine/drivers/vsphere/ | VMware vSphere
+
+http://thenewstack.io/docker-swarm-wins-scaling-benchmark-dont-take-gospel/ | Docker Swarm Wins Scaling Benchmark but Don't Take That as Gospel - The New Stack
+http://thenewstack.io/how-to-bypass-the-cobbled-together-state-of-todays-cloud/ | How to Bypass the Cobbled-Together State of Today's Cloud - The New Stack
+http://thenewstack.io/kubernetes-cluster-ops-sig/ | Kubernetes Operators: Check out this New Online Cluster Ops SIG - The New Stack
+http://thenewstack.io/circleci-adds-support-os-x-premises-deployments/ | CircleCI Adds Support for OS X, On-Premises Deployments - The New Stack
+http://thenewstack.io/cloudsoft-incontinuum-set-controller-fully-fungible-cloud/ | Cloudsoft, InContinuum Team to offer Autonomous Multi-Cloud Computing - The New Stack
+
+http://www.wpbeginner.com/wp-tutorials/how-to-add-ssl-and-https-in-wordpress/ | How to Add SSL and HTTPS in WordPress
+https://make.wordpress.org/support/user-manual/web-publishing/https-for-wordpress/ | HTTPS for WordPress – Support Everything WordPress
+https://wordpress.org/plugins/wp-force-ssl/ | WP Force SSL — WordPress Plugins
+
+https://logentries.com/ | Log Management & Analysis Software Made Easy | Logentries
+http://mailman2.vmware.com/mailman/cgi-bin/listinfo | mailman2.vmware.com Mailing Lists
+http://mailman2.vmware.com/mailman/listinfo/community | Community Info Page
+http://mailman2.vmware.com/mailman/cgi-bin/listinfo/compute-dependency-announce-aggregator | Compute-dependency-announce-aggregator Info Page
+http://mailman2.vmware.com/cgi-bin/mailman/listinfo/apachehadoop | Apachehadoop Info Page
+http://mailman2.vmware.com/mailman/cgi-bin/listinfo/build-destiny | Build-destiny Info Page
+http://mailman2.vmware.com/cgi-bin/mailman/listinfo/cpd-esx-open-source-guru | Cpd-esx-open-source-guru Info Page
+http://mailman2.vmware.com/mailman/cgi-bin/listinfo/cpd-oss | Cpd-oss Info Page
+http://mailman2.vmware.com/mailman/cgi-bin/listinfo/fuse4js | Fuse4js Info Page
+http://mailman2.vmware.com/mailman/cgi-bin/listinfo/odp-validation | Odp-validation Info Page
+http://mailman2.vmware.com/mailman/listinfo/open-source-tools | Open-source-tools Info Page
+http://mailman2.vmware.com/mailman/cgi-bin/listinfo/osc-members | Osc-members Info Page
+http://mailman2.vmware.com/mailman/listinfo/osi-list | Osi-list Info Page
+http://mailman2.vmware.com/mailman/cgi-bin/listinfo/oss-core | oss-core Info Page
+http://mailman2.vmware.com/mailman/cgi-bin/listinfo/oss-members | oss-members Info Page
+http://mailman2.vmware.com/mailman/cgi-bin/listinfo/oss-odp | Oss-odp Info Page
+http://mailman2.vmware.com/mailman/listinfo/oss-queries | Oss-queries Info Page
+http://mailman2.vmware.com/mailman/listinfo/oss-request | Oss-request Info Page
+http://mailman2.vmware.com/mailman/cgi-bin/listinfo/oss-security-announce | oss-security-announce Info Page
+http://mailman2.vmware.com/mailman/cgi-bin/listinfo/serengeti-contrib | Serengeti-contrib Info Page
+http://mailman2.vmware.com/mailman/cgi-bin/listinfo/serengeti-oss-contrib | Serengeti-oss-contrib Info Page
+http://mailman2.vmware.com/mailman/cgi-bin/listinfo/skunkworks-build-2017 | Skunkworks-build-2017 Info Page
+http://mailman2.vmware.com/cgi-bin/mailman/listinfo/vcd-tloss-community | Vcd-tloss-community Info Page
+http://mailman2.vmware.com/cgi-bin/mailman/listinfo/vcqe-tlodmc-community | Vcqe-tlodmc-community Info Page
+http://mailman2.vmware.com/mailman/subscribe/workstation-oss | Workstation-oss Subscription results
+
+https://www.google.com/search?q=google+open+source&oq=google+open+source&aqs=chrome..69i57j0l3j69i65j0.8965j0j7&sourceid=chrome&es_sm=119&ie=UTF-8#q=google+all+things+open | google all things open - Google Search
+https://opensource.com/resources | Open source resources: organizations, projects, application, and events | Opensource.com
+https://opensource.com/life/15/10/ato-interview-christine-abernathy-facebook | All Things Open interview with Christine Abernathy, Facebook | Opensource.com
+https://opensource.com/life/15/10/ato-interview-guy-martin-and-nithya-ruff | All Things Open interview with Guy Martin and Nithya Ruff | Opensource.com
+https://opensource.com/life/15/10/ato-interview-brandon-keepers-github | All Things Open interview with Brandon Keepers, GitHub | Opensource.com
+https://opensource.com/resources/what-open-source | What is open source software? | Opensource.com
+https://opensource.com/life/14/2/exploring-open-source-beginners | Online and offline ways to get involved in open source | Opensource.com
+https://opensource.com/life/11/3/how-become-amazing-contributor-open-source-project | How to become an amazing contributor (to an open source project) | Opensource.com
+https://opensource.com/business/14/1/how-set-foss-environment | Life after Windows: How to set up an open source environment on your computer | Opensource.com
+https://opensource.com/government/14/2/how-get-started-civic-hacking | How citizens can participate in their local government | Opensource.com
+https://opensource.com/business/13/10/interview-chris-dibona | Interview with Chris DiBona of Google | Opensource.com
+https://opensource.com/resources/ebook/all-things-open-2013 | Free eBook | All Things Open conference interview series | Opensource.com
+http://blogs.wsj.com/cio/2015/11/24/google-kubernetes-is-an-open-source-software-hit/ | Google Kubernetes Is an Open-Source Software Hit - The CIO Report - WSJ
+https://plus.google.com/+AllthingsopenOrg/videos | All Things Open - Videos - Google+
+
+https://buffer.com/business | Social Media Management for Business | Buffer
+https://buffer.com/awesome | Social Media Management Tools | Buffer Awesome Plan
+https://buffer.com/faq/plans-pricing/#what-are-key-features-awesome-plan-vs-individual-plan | Buffer - FAQ - What are the key features of the Awesome Plan vs. the Individual Plan?
+https://blog.bufferapp.com/introducing-google-analytics-integration-for-buffer-and-3-more-features | Introducing Powerful New Buffer Analytics: Google Analytics support, Tracking of Social Account Growth and More - The Buffer Blog
+https://buffer.com/guides | An Introduction to Buffer - Buffer
+https://buffer.com/ | Buffer - A Smarter Way to Share on Social Media
+
+http://www.packal.org/categories/productivity | Productivity | Packal
+
+http://www.packal.org/workflow/boot2docker | Boot2Docker | Packal
+http://www.packal.org/workflow/docker-wizard | Docker Wizard | Packal
+http://www.packal.org/workflow/docker-wizard-0 | Docker Wizard | Packal
+http://www.packal.org/workflow/imgur-downloader | Imgur Downloader | Packal
+http://www.packal.org/workflow/ipv4-int-and-vice-versa | IPv4 to INT and vice versa | Packal
+http://www.packal.org/workflow/epochunix-time-datetime | Epoch/Unix Time to DateTime | Packal
+http://www.packal.org/workflow/precise-age-calculator | Precise Age Calculator | Packal
+
+http://www.packal.org/workflow/packal-updater | Packal Updater | Packal
+http://www.packal.org/categories/utilities | Utilities | Packal
+http://www.packal.org/workflow/copy-mail-message-url | Copy Mail Message URL | Packal
+http://www.packal.org/workflow/markdown-note-github-repo | markdown note of Github Repo | Packal
+http://www.packal.org/workflow/url-craft | URL craft | Packal
+http://www.packal.org/workflow/google-hangout | Google Hangout | Packal
+http://www.packal.org/workflow/quote | Quote | Packal
+http://www.packal.org/workflow/menu-bar-activate | Menu Bar Activate | Packal
+http://www.packal.org/workflow/calendar-availability | Calendar Availability | Packal
+http://www.packal.org/workflow/osm-element | OSM Element | Packal
+http://www.packal.org/workflow/browser-switcher | Browser Switcher | Packal
+http://www.packal.org/users/raguay | raguay | Packal
+http://www.packal.org/workflow/create-ram-drive | Create RAM drive | Packal
+http://www.packal.org/workflow/copy-ssh-public-key | Copy SSH Public Key | Packal
+http://www.packal.org/categories/system | System | Packal
+http://www.packal.org/categories/utilities | Utilities | Packal
+http://www.packal.org/categories/development | Development | Packal
+http://www.packal.org/workflow/alfred-uri-handler | Alfred URI Handler | Packal
+http://www.packal.org/workflow/notes-workflow | Notes Workflow | Packal
+http://www.packal.org/workflow/text-massagers | Text Massagers | Packal
+http://www.packal.org/workflow/alfred-time-keeper | Alfred Time Keeper | Packal
+http://www.packal.org/workflow/next-item | Next Item | Packal
+http://www.packal.org/workflow/directory-processing-workflow | Directory Processing Workflow | Packal
+http://www.packal.org/workflow/list-processing-workflow | List Processing Workflow | Packal
+http://www.packal.org/workflow/compress-image | Compress Image | Packal
+http://www.packal.org/workflow/open-alfred | Open in Alfred | Packal
+http://www.packal.org/workflow/emacs-workflow | Emacs Workflow | Packal
+http://www.packal.org/workflow/file-name-sequencer | File Name Sequencer | Packal
+http://www.packal.org/workflow/anybar-workflow | AnyBar Workflow | Packal
+http://www.packal.org/workflow/macvim-toolkit | MacVim Toolkit | Packal
+http://www.packal.org/workflow/alfred-browser-toolbox | Alfred Browser Toolbox | Packal
+http://www.packal.org/workflow/dockshelf-workflow | DockShelf Workflow | Packal
+http://www.packal.org/workflow/homebrew-and-cask-alfred | Homebrew and Cask for Alfred | Packal
+http://www.packal.org/workflow/travis-ci-alfred | Travis CI for Alfred | Packal
+http://www.packal.org/categories/networking | Networking | Packal
+http://www.packal.org/categories/files-and-folders | Files and Folders | Packal
+http://www.packal.org/workflow/router-web-interface | Router Web Interface | Packal
+http://www.packal.org/tags/webserver | webserver | Packal
+
+http://www.wired.com/2015/11/netflixs-new-tool-makes-it-easy-to-use-amazons-cloud-and-googles/ | Netflix’s New Spinnaker Open Source Tool Makes It Easy to Use Amazon’s Cloud—And Google’s | WIRED
+http://www.wired.com/2015/10/meet-walking-dead-hp-cisco-dell-emc-ibm-oracle/ | Dell. EMC. HP. Cisco. These Tech Giants Are the Walking Dead | WIRED
+
+https://tc.ow2.org/bin/view/wiki/Mature+level#HDocumenthistory | Mature Level - OW2 TC
+https://jeromeloisel.com/2016/01/07/how-to-build-and-release-open-source-java/ | How to build and release an open-source Java Project
+http://hecker.org/writings/setting-up-shop | Setting Up Shop
+
+http://www.javaworld.com/article/2867975/developer-tools-ide/7-cool-tools-for-doing-devops-right.html | 7 cool tools for doing devops right | JavaWorld
+
+http://www.javaworld.com/article/2078775/scripting-jvm-languages/open-source-java-projects-akka.html | Open source Java projects: Akka | JavaWorld
+http://www.javaworld.com/article/2072302/core-java/more-on-getters-and-setters.html | More on getters and setters | JavaWorld
+http://www.javaworld.com/article/2078020/java-concurrency/understanding-actor-concurrency-part-2-actors-on-the-jvm.html | Understanding actor concurrency, Part 2: Actors on the JVM | JavaWorld
+
+https://www.google.com/search?q=github+open+source+pull+model&oq=github+open+source+pull+model&aqs=chrome..69i57j69i64.17289j0j7&sourceid=chrome&es_sm=119&ie=UTF-8#q=github+configuring+open+source+projects | github configuring open source projects - Google Search
+http://www.barryclark.co/starting-an-open-source-project/#get-traffic-from-the-right-audiences | How to Start an Open Source Project on GitHub (that people use) – Barry Clark - Building a great engineering culture
+http://www.appsembler.com/blog/10-things-every-open-source-project-should-have/ | 10 Things Every Open Source Project Should Have - Appsembler : Appsembler
+http://plope.com/Members/chrism/documentation_is_the_differentiator | - Documentation is the Differentiator
+https://www.google.com/search?q=open+sourcing+a+java+project+the+right+way&oq=open+sourcing+a+java+project+the+right+way&aqs=chrome..69i57.6205j0j4&sourceid=chrome&es_sm=119&ie=UTF-8#tbs=qdr:y&q=how+to+set+up+open+source+java+project | how to set up open source java project - Google Search
+http://www.javaworld.com/search?query=vagrant&t=4 | Search results for vagrant | JavaWorld
+http://www.infoworld.com/article/2858092/data-center-automation/saltstack-expands-container-support-for-docker-and-beyond.html | SaltStack expands container support for Docker and beyond | InfoWorld
+http://www.infoworld.com/article/2854978/application-virtualization/docker-derailed-coreos-rabble-rousing-might-work.html | Docker derailed? CoreOS’s rabble rousing might work | InfoWorld
+https://valdhaus.co/writings/docker-misconceptions/ | Docker Misconceptions
+http://www.javaworld.com/article/2074939/core-java/ssh---vagrant.html | SSH & Vagrant | JavaWorld
+http://www.javaworld.com/article/2074971/core-java/elasticsearch-in-a-box.html | Elasticsearch in a box | JavaWorld
+http://www.javaworld.com/article/2074966/core-java/provisioning-ubuntu-with-java-in-3-steps.html | Provisioning Ubuntu with Java in 3 steps | JavaWorld
+http://www.javaworld.com/article/2995526/development-tools/jump-into-java-micro-frameworks-part-1.html | Jump into Java microframeworks, Part 1 | JavaWorld
+http://www.javaworld.com/article/3008117/development-tools/jump-into-java-microframeworks-part-2-ninja.html | Jump into Java microframeworks, Part 2: Ninja | JavaWorld
+https://netflix.github.io/ | Netflix Open Source Software Center
+https://guides.github.com/activities/contributing-to-open-source/ | Contributing to Open Source on GitHub · GitHub Guides
+
+http://www.javaworld.com/article/3038675/application-virtualization/youre-doing-it-wrong-5-common-docker-mistakes.html | You're doing it wrong: 5 common Docker mistakes | JavaWorld
+
+https://github.com/coreos/rkt | coreos/rkt: rkt is an App Container runtime for Linux
+https://github.com/coreos/etcd | coreos/etcd: Distributed reliable key-value store for the most critical data of a distributed system
+https://github.com/coreos/rkt/tree/master/Documentation | rkt/Documentation at master · coreos/rkt
+https://github.com/coreos/rkt/blob/master/Documentation/devel/cgroups.md | rkt/cgroups.md at master · coreos/rkt
+https://github.com/coreos/rkt/blob/master/Documentation/getting-started-guide.md | rkt/getting-started-guide.md at master · coreos/rkt
+https://github.com/coreos/rkt/blob/master/Documentation/using-rkt-with-kubernetes.md | rkt/using-rkt-with-kubernetes.md at master · coreos/rkt
+https://github.com/coreos/rkt/blob/master/Documentation/using-rkt-with-nomad.md | rkt/using-rkt-with-nomad.md at master · coreos/rkt
+https://github.com/coreos/rkt/blob/master/Documentation/using-rkt-with-systemd.md | rkt/using-rkt-with-systemd.md at master · coreos/rkt
+
+https://www.google.com/search?q=open+source+project+checklist&oq=open+source+project+checklist&aqs=chrome..69i57.12351j0j4&sourceid=chrome&es_sm=119&ie=UTF-8#q=open+source+project+checklist&start=10 | open source project checklist - Google Search
+https://github.com/cfpb/open-source-project-template/blob/master/opensource-checklist.md | open-source-project-template/opensource-checklist.md at master · cfpb/open-source-project-template
+http://radek.io/2015/11/23/release-checklist/ | Open-source project release checklist (by @radekpazdera)
+http://opensource.org/osi-open-source-education | Open Source Education | Open Source Initiative
+http://opensource.org/faq#which-license | Frequently Answered Questions | Open Source Initiative
+http://opensource.org/osd-annotated | The Open Source Definition (Annotated) | Open Source Initiative
+http://opensource.org/approval | The Licence Review Process | Open Source Initiative
+http://opensource.org/faq | Frequently Answered Questions | Open Source Initiative
+http://flosscc.org/ | Home | FLOSS Competence Center Network
+http://www.gnu.org/licenses/license-list.html | Various Licenses and Comments about Them - GNU Project - Free Software Foundation
+http://radek.io/ | Radek Pazdera
+https://www.fossil-scm.org/xfer/doc/trunk/www/foss-cklist.wiki | Fossil: Checklist For Successful Open-Source Projects
+http://opensource.envato.com/checklist/ | "Open Source Preflight Checklist" - Envato
+http://srawlins.ruhoh.com/checklist-for-the-benevolent-open-source-maintainer/ | Checklist for the Benevolent Open Source Maintainer
+http://opensourcedesign.net/foss-contributors-checklist/ | Open Source Checklist
+http://blog.smartbear.com/open-source/how-to-turn-your-pile-of-code-into-an-open-source-project/ | How to Turn Your Pile of Code into an Open Source Project
+http://flosscc.org/more | More | FLOSS Competence Center Network
+http://wiki.opensource.org/bin/Main/ | Wiki Home (Main.WebHome) - XWiki
+http://opensource.org/advocacy/case_for_business.php | Open Source Case for Business:Advocacy | Open Source Initiative
+https://projects.ow2.org/bin/view/wiki/lifecycle | Projects Lifecycle - OW2
+http://old.zope.org/Members/paul/BusinessDecision/ | Zope.org - How We Reached The Open Source Business Decision
+http://www.linuxfoundation.org/collaborate/workgroups/lsb | Linux Standard Base (LSB)
+http://flosscc.org/edu_material | Educational Material | FLOSS Competence Center Network
+
+https://drive.google.com/file/d/0B4016P0_3PSqRUdTNktKRmI4SDQ/view?pref=2&pli=1 | Pres_1_Introduction_State_of_Project - Google Drive
+https://blog.docker.com/2015/08/docker-governance-advisory-board-dgab-update/ | The Docker Governance Advisory Board (DGAB) Grows and Evolves | Docker Blog
+https://drive.google.com/folderview?id=0B4016P0_3PSqSXMzam14azdlMWc&usp=sharing | DGAB_Oct_28_2014
+https://github.com/opencontainers/specs/blob/master/code-of-conduct.md | specs/code-of-conduct.md at master · opencontainers/specs
+https://github.com/opencontainers/specs | opencontainers/specs: Open Container Specifications
+
+http://www.infoworld.com/article/2853834/application-virtualization/coreos-dump-docker-for-our-secure-replacement.html | CoreOS: Dump Docker for our more secure replacement | InfoWorld
+https://blog.docker.com/2014/12/initial-thoughts-on-the-rocket-announcement/ | Initial thoughts on the Rocket announcement | Docker Blog
+https://blog.docker.com/2014/11/docker-governance-advisory-board-output-of-first-meeting/ | Docker Governance Advisory Board: Output of First Meeting | Docker Blog
+https://blog.docker.com/2014/06/docker-governance-advisory-board-next-steps/ | Docker Governance Advisory Board: Next Steps | Docker Blog
+http://www.infoworld.com/author/Serdar-Yegulalp/ | Articles by Serdar Yegulalp | InfoWorld
+http://www.infoworld.com/article/3040743/application-virtualization/docker-snaps-up-apache-aurora-devs-for-swarm-team.html | Docker snaps up Apache Aurora devs for Swarm team | InfoWorld
+http://www.infoworld.com/article/2933324/data-center/mesosphere-os-manages-entire-data-centers-with-one-click.html | Mesosphere OS manages entire data centers with one click | InfoWorld
+http://aurora.apache.org/ | Apache Aurora
+http://aurora.apache.org/documentation/latest/configuration-tutorial/ | Apache Aurora
+http://aurora.apache.org/community/ | Apache Aurora
+http://kubernetes.github.io/docs/getting-started-guides/#custom-solutions | Kubernetes - Picking the Right Solution
+https://github.com/kubernetes/kubernetes/blob/release-1.1/docs/user-guide/pods.md | kubernetes/pods.md at release-1.1 · kubernetes/kubernetes
+https://coreos.com/blog/rocket/ | CoreOS is building a container runtime, rkt
+https://github.com/coreos/rkt/blob/master/Documentation/app-container.md | rkt/app-container.md at master · coreos/rkt
+https://github.com/docker/docker/blob/eed00a4afd1e8e8e35f8ca640c94d9c9e9babaf7/README.md | docker/README.md at eed00a4afd1e8e8e35f8ca640c94d9c9e9babaf7 · docker/docker
+https://github.com/appc/spec/blob/master/spec/aci.md#app-container-image | spec/aci.md at master · appc/spec
+https://github.com/appc/spec/blob/master/SPEC.md | spec/SPEC.md at master · appc/spec
+https://golang.org/cmd/go/#hdr-Remote_import_paths | go - The Go Programming Language
+https://coreos.com/os/docs/latest/quickstart.html | CoreOS Quick Start
+https://github.com/docker/docker/blob/0db56e6c519b19ec16c6fbd12e3cee7dfa6018c5/README.md | docker/README.md at 0db56e6c519b19ec16c6fbd12e3cee7dfa6018c5 · docker/docker
+https://docs.google.com/document/d/1CTAL4gwqRofjxyp4tTkbgHtAwb2YCcP14UEbHNizd8g/edit?pref=2&pli=1 | Rocket networking considerations - Google Docs
+https://coreos.com/kubernetes/docs/latest/getting-started.html | Step 1: Getting Started
+https://github.com/coreos/rkt/blob/master/Documentation/trying-out-rkt.md | rkt/trying-out-rkt.md at master · coreos/rkt
+https://docs.google.com/document/d/1dYxInIUDTm4HEArQ9Hom_1NhYw22WrXWdglnaLjtQsI/edit?pref=2&pli=1#heading=h.2mzw2mutm6lx | rkt/k8s Features Checklist - Google Docs
+https://github.com/appc/spec/blob/master/spec/pods.md#pod-manifest-schema | spec/pods.md at master · appc/spec
+https://coreos.com/rkt/docs/latest/using-rkt-with-kubernetes.html | Using rkt with Kubernetes
+https://coreos.com/kubernetes/docs/latest/kubernetes-on-vagrant-single.html | Kubernetes on Vagrant (Single Machine)
+http://kubernetes.github.io/docs/user-guide/quick-start/ | Kubernetes - Launching, Exposing, and Killing Applications
+https://coreos.com/os/docs/latest/booting-on-vmware.html | VMware
+https://github.com/xavierbaude/VMware-coreos-multi-nodes-Kubernetes | xavierbaude/VMware-coreos-multi-nodes-Kubernetes: Create a Kubernetes Cluster on VMware ESXi
+https://coreos.com/os/docs/latest/cloud-config.html#etcd2 | Customize with Cloud-Config
+http://man7.org/linux/man-pages/man7/namespaces.7.html | namespaces(7) - Linux manual page
+https://github.com/coreos/rkt/blob/master/Documentation/rkt-vs-other-projects.md | rkt/rkt-vs-other-projects.md at master · coreos/rkt
+https://github.com/appc/cni | appc/cni: Container Network Interface
+https://github.com/coreos/rkt/blob/master/Documentation/app-container.md | rkt/app-container.md at master · coreos/rkt
+https://github.com/appc/cni/blob/master/SPEC.md | cni/SPEC.md at master · appc/cni
+
+https://www.opencontainers.org/about | About | Open Container Initiative
+https://www.opencontainers.org/ | Home | Open Container Initiative
+https://github.com/hyperhq/runv | hyperhq/runv: Hypervisor-based Runtime for OCF
+https://blog.docker.com/2015/07/open-container-format-progress-report/ | Open Container Format Progress Report | Docker Blog
+https://github.com/opencontainers/specs/pull/34 | hooks: start with pre-start and post-stop hooks. by mrunalp · Pull Request #34 · opencontainers/specs
+https://github.com/opencontainers/specs/blob/master/config.md | specs/config.md at master · opencontainers/specs
+https://github.com/opencontainers/specs/blob/master/config-linux.md | specs/config-linux.md at master · opencontainers/specs
+http://www.marketwired.com/press-release/community-rallies-behind-open-container-initiative-2040899.htm | Community Rallies Behind Open Container Initiative
+https://github.com/opencontainers/runc/blob/master/MAINTAINERS_GUIDE.md | runc/MAINTAINERS_GUIDE.md at master · opencontainers/runc
+https://www.opencontainers.org/news/announcement/2015/12/%E2%80%8Bopen-container-initiative-establishes-technical-governance-announces-new | ​Open Container Initiative Establishes Technical Governance, Announces New Members | Open Container Initiative
+https://github.com/opencontainers/specs | opencontainers/specs: Open Container Specifications
+https://github.com/opencontainers/specs/wiki | Home · opencontainers/specs Wiki
+https://coreos.com/blog/rocket/ | CoreOS is building a container runtime, rkt
+https://github.com/appc/spec | appc/spec: App Container Specification and Tooling
+https://github.com/appc/spec/blob/master/POLICY.md | spec/POLICY.md at master · appc/spec
+https://github.com/appc/spec | appc/spec: App Container Specification and Tooling
+https://github.com/appc/spec/blob/master/MAINTAINERS | spec/MAINTAINERS at master · appc/spec
+https://github.com/bazelbuild/bazel/blob/efbcf00220a95c5ea1dfa7e3a5bff8311b52727d/site/governance.md | bazel/governance.md at efbcf00220a95c5ea1dfa7e3a5bff8311b52727d · bazelbuild/bazel
+https://cla.developers.google.com/about | About - Google CLA
+https://coreos.com/rkt/docs/latest/networking.html | Container/Pod Networking
+https://www.cloudfoundry.org/garden-and-runc/ | Garden and runC | Cloud Foundry
+https://www.opencontainers.org/news/announcement/2015/07/community-rallies-behind-open-container-initiative | Community Rallies Behind Open Container Initiative | Open Container Initiative
+https://www.google.com/search?q=netflix+cla&oq=netflix+cla&aqs=chrome..69i57j0l5.3501j0j7&sourceid=chrome&es_sm=119&ie=UTF-8#q=netflix+open+source | netflix open source - Google Search
+https://netflix.github.io/ | Netflix Open Source Software Center
+https://github.com/Netflix/Hystrix/blob/master/hystrix-core/src/main/java/com/netflix/hystrix/HystrixCommandMetrics.java | Hystrix/HystrixCommandMetrics.java at master · Netflix/Hystrix
+https://github.com/Netflix/Hystrix/blob/master/hystrix-core/src/main/java/com/netflix/hystrix/HystrixCommand.java | Hystrix/HystrixCommand.java at master · Netflix/Hystrix
+https://github.com/Netflix/Hystrix/wiki/Getting-Started | Getting Started · Netflix/Hystrix Wiki
+https://github.com/Netflix/osstracker | Netflix/osstracker: Github organization OSS metrics collector and metrics dashboard
+http://techblog.netflix.com/2015/10/evolution-of-open-source-at-netflix.html | The Netflix Tech Blog: Evolution of Open Source at Netflix
+http://www.meetup.com/Netflix-Open-Source-Platform/ | Netflix Open Source Platform (Los Gatos, CA) - Meetup
+http://fossbytes.com/netflix-open-source-projects-you-must-know/ | Top Netflix Open Source Projects You Must Know
+http://www.zdnet.com/article/netflix-unveils-open-source-project-ready-for-amazon-google-clouds/ | Netflix launches open source project ready for Amazon, Google clouds | ZDNet
+
+http://aurora.apache.org/documentation/latest/configuration-tutorial/ | Apache Aurora
+http://aurora.apache.org/community/ | Apache Aurora
+http://aurora.apache.org/documentation/latest/contributing/ | Apache Aurora
+
+http://www.javaworld.com/article/2078630/open-source-tools/open-source-java-projects-github.html | Open source Java projects: GitHub | JavaWorld
+
+http://tldp.org/LDP/abs/html/testconstructs.html | Test Constructs
+http://wiki.bash-hackers.org/start | The Bash Hackers Wiki [Bash Hackers Wiki]
+http://wiki.bash-hackers.org/scripting/bashchanges | Bash changes [Bash Hackers Wiki]
+http://wiki.bash-hackers.org/scripting/style | Scripting with style [Bash Hackers Wiki]
+http://wiki.bash-hackers.org/scripting/basics | The basics of shell scripting [Bash Hackers Wiki]
+http://wiki.bash-hackers.org/scripting/processtree | Bash and the process tree [Bash Hackers Wiki]
+http://wiki.bash-hackers.org/scripting/debuggingtips | Debugging a script [Bash Hackers Wiki]
+http://wiki.bash-hackers.org/scripting/terminalcodes | Terminal codes (ANSI/VT100) introduction [Bash Hackers Wiki]
+http://wiki.bash-hackers.org/snipplets/start | Small code snippets [Bash Hackers Wiki]
+http://wiki.bash-hackers.org/misc/readthesourceluke | misc:readthesourceluke [Bash Hackers Wiki]
+
+https://www.google.com/search?q=core+storage+command+line+keychain&oq=core+storage+command+line+keychain&aqs=chrome..69i57.10634j0j7&sourceid=chrome&es_sm=119&ie=UTF-8#q=core+storage+command+line+volume+keychain | core storage command line volume keychain - Google Search
+https://derflounder.wordpress.com/2011/11/23/using-the-command-line-to-unlock-or-decrypt-your-filevault-2-encrypted-boot-drive/ | Unlock or decrypt your FileVault 2-encrypted boot drive from the command line | Der Flounder
+http://blog.fosketts.net/2011/08/05/undocumented-corestorage-commands/ | Undocumented CoreStorage Commands - Stephen Foskett, Pack Rat
+http://blog.fosketts.net/2011/08/04/mac-osx-lion-corestorage-volume-manager/ | Mac OS X Lion Adds CoreStorage, a Volume Manager (Finally!) - Stephen Foskett, Pack Rat
+http://blog.fosketts.net/2011/08/04/mac-osx-lion-corestorage-volume-manager/ | Mac OS X Lion Adds CoreStorage, a Volume Manager (Finally!) - Stephen Foskett, Pack Rat
+http://krypted.com/mac-security/encrypt-os-x-yosemite-server/ | Encrypt OS X Yosemite Server | krypted.com
+https://www.google.com/#q=os+x+diskutil+unlock+local+keychain+command+line | os x diskutil unlock local keychain command line - Google Search
+http://superuser.com/questions/834993/unlocking-filevault-encrypted-drive-from-terminal-to-allow-pasting-password | osx - Unlocking FileVault encrypted drive from Terminal (to allow pasting password) - Super User
+https://derflounder.wordpress.com/2013/06/11/decrypting-filevault-2-on-mac-os-x-10-8-4-unlock-first-then-decrypt/ | Decrypting FileVault 2 on Mac OS X 10.8.4 – Unlock first, then decrypt | Der Flounder
+http://blog.fosketts.net/2011/08/05/undocumented-corestorage-commands/ | Undocumented CoreStorage Commands - Stephen Foskett, Pack Rat
+http://apple.stackexchange.com/questions/211391/has-el-capitan-disk-utility-removed-encryption-options | Has El Capitan Disk Utility Removed Encryption Options? - Ask Different
+https://discussions.apple.com/thread/5699691?tstart=0 | Keeps asking for my "local items" keychain | Apple Support Communities
+https://discussions.apple.com/thread/5467304?tstart=0 | Mavericks Keychain keeps asking to unlock "Loca... | Apple Support Communities
+https://macmule.com/2014/03/30/the-local-items-keychain-in-mavericks/ | The “Local Items” Keychain In Mavericks | macmule
+https://derflounder.wordpress.com/2014/04/27/unlocking-or-decrypting-a-filevault-2-encrypted-fusion-drive-from-the-command-line/ | Unlocking or decrypting a FileVault 2-encrypted Fusion Drive from the command line | Der Flounder
+http://www.macissues.com/2015/07/08/manage-os-x-always-asking-to-use-your-keychain-passwords/ | Manage OS X always asking to use your keychain passwords | MacIssues
+
+https://security.stackexchange.com/questions/47749/how-secure-is-secure-keyboard-entry-in-mac-os-xs-terminal | macosx - How secure is "Secure Keyboard Entry" in Mac OS X's Terminal? - Information Security Stack Exchange
+https://developer.apple.com/library/mac/technotes/tn2150/_index.html | Technical Note TN2150: Using Secure Event Input Fairly
+
+https://enatai-git.eng.vmware.com/enatai/dcp/wikis/Gerrit-workflow | Wiki - enatai / dcp | GitLab
+https://chrome.google.com/webstore/detail/http-trace/idladlllljmbcnfninpljlkaoklggknp | HTTP Trace - Chrome Web Store
+https://confluence.eng.vmware.com/display/VRCS/vRA+Build+Optimization | vRA Build Optimization - VRCS - Confluence Wiki
+https://wiki.eng.vmware.com/User:Gmcelhoe/vCAC_Gated_Build | User:Gmcelhoe/vCAC Gated Build - VMware Wiki
+http://martinfowler.com/bliki/ContinuousDelivery.html | ContinuousDelivery
+http://martinfowler.com/bliki/DeploymentPipeline.html | DeploymentPipeline
+
+https://confluence.eng.vmware.com/pages/viewpage.action?pageId=152448260 | Log Insight Engineering In-Site 3/1 - 3/3 - Log Insight - Confluence Wiki
+
+http://kendrickcoleman.com/index.php/Tech-Blog/how-to-setup-your-mac-with-vmware-fusion-vagrant-and-boot2docker.html | How to setup your Mac with VMware Fusion, Vagrant, and boot2docker | Tech Blog | Blog
+
+https://www.google.com/search?q=gerrit+setting+up+git+settings&oq=gerrit+setting+up+git+settings&aqs=chrome..69i57.5249j0j7&sourceid=chrome&es_sm=119&ie=UTF-8 | gerrit setting up git settings - Google Search
+https://www.mediawiki.org/wiki/Gerrit/Tutorial | Gerrit/Tutorial - MediaWiki
+https://gerrit-review.googlesource.com/Documentation/install-quick.html | Gerrit Code Review - Quick get started guide
+https://gerrit.googlecode.com/svn/documentation/2.0/install.html | Gerrit2 - Installation Guide
+http://dcycleproject.org/blog/84/setting-gerrit-git-repo | Setting up Gerrit with a git repo | Dcycle
+http://www.infoq.com/articles/Gerrit-jenkins-hudson | Git, Gerrit Review and Jenkins or Hudson CI Servers
+
+http://www.pivotaltracker.com/community/public-projects/ | Public Projects | Pivotal Tracker
+http://www.pivotaltracker.com/why-tracker/pricing/ | Pricing | Pivotal Tracker
+http://www.pivotaltracker.com/faq#istrackerreallyfreeforpublicprojectsindividualusenonprofitsandeducators | Pivotal Tracker: Help: FAQ
+http://www.pivotaltracker.com/why-tracker/pricing/ | Pricing | Pivotal Tracker
+https://www.pivotaltracker.com/n/projects/1471320 | Xenon - Pivotal Tracker
+https://launchpad.net/ | Launchpad
+https://launchpad.net/~jim-cooley | Jim Cooley in Launchpad
+https://blueprints.launchpad.net/barbican/+spec/add-ssl-ca-support | Add support to order new and modify existing SSL certs. : Blueprints : Barbican
+
+https://www.google.com/search?q=openstack+resolving+merge+conflicts+gerrit&oq=openstack+resolving+merge+conflicts+gerrit&aqs=chrome..69i57.9247j0j7&sourceid=chrome&es_sm=119&ie=UTF-8 | openstack resolving merge conflicts gerrit - Google Search
+https://ask.openstack.org/en/question/53715/merge-conflict-during-patch-submission/ | Merge conflict during patch submission - Ask OpenStack: Q&A Site for OpenStack Users and Developers
+http://anteaya.info/blog/2013/03/25/please-rebase-your-change-and-upload-a-new-patchset/ | Please rebase your change and upload a new patchset - Grokking OpenStack
+https://www.kernel.org/pub/software/scm/git/docs/git-rebase.html | git-rebase(1)
+
+https://enatai-jenkins.eng.vmware.com/view/All/job/dcp-master-trigger/ | dcp-master-trigger [Jenkins]
+https://enatai-jenkins.eng.vmware.com/view/DCP/job/dcp-local-test/ | dcp-local-test [Jenkins]
+https://enatai-jenkins.eng.vmware.com/view/DCP/ | DCP [Jenkins]
+https://enatai-jenkins.eng.vmware.com/view/Tests/ | Tests [Jenkins]
+
+https://confluence.eng.vmware.com/pages/viewpage.action?pageId=150090231 | Build/CI - Project Arenite Elaboration. Standards & Toolchain for Continuous Progressive Builds - CAeng Allegro - Confluence Wiki
+https://confluence.eng.vmware.com/display/~aviswanathan | Arun Viswanathan - User Profile - Confluence Wiki
+https://confluence.eng.vmware.com/users/viewfollow.action?username=jcooley | Jim Cooley - Preferences - Confluence Wiki
+https://confluence.eng.vmware.com/display/MCS/Container+project+Dev+Setup | Container project Dev Setup - MBU Container Strategy - Confluence Wiki
+https://confluence.eng.vmware.com/display/SYM/Tenant%2C+LOB%2C+Project+On+Boarding%2C+Access+controls+to+Cloud+Providers?focusedCommentId=153326157#comment-153326157 | Tenant, LOB, Project On Boarding, Access controls to Cloud Providers - Symphony - Confluence Wiki
+https://confluence.eng.vmware.com/display/allegro/Status+of+Baseline+Contract+Definition+for+Existing+Services | Status of Baseline Contract Definition for Existing Services - CAeng Allegro - Confluence Wiki
+https://confluence.eng.vmware.com/display/SYM/Tracking+Work+For+Symphony | Tracking Work For Symphony - Symphony - Confluence Wiki
+
+http://docs.openstack.org/infra/manual/index.html | Infrastructure User Manual — OpenStack Project Infrastructure Manual 0.0.1.dev226 documentation
+
+https://confluence.eng.vmware.com/pages/viewpage.action?spaceKey=CAEng&title=Development+Release+Process | Development Release Process - Cloud Automation Engineering - Confluence Wiki
+https://wiki.eng.vmware.com/VCAC/Dev/Guides | VCAC/Dev/Guides - VMware Wiki
+https://wiki.eng.vmware.com/VCAC/Releases/Altair/DevOps/Git | VCAC/Releases/Altair/DevOps/Git - VMware Wiki
+https://wiki.eng.vmware.com/VCAC/Releases/Pacman/DevOps/ConfigureJavaDevEnv | VCAC/Releases/Pacman/DevOps/ConfigureJavaDevEnv - VMware Wiki
+https://wiki.eng.vmware.com/VCAC/Releases/Pacman/DevOps/NewJavaDevEnv | VCAC/Releases/Pacman/DevOps/NewJavaDevEnv - VMware Wiki
+http://www.oracle.com/technetwork/java/javase/downloads/jdk8-downloads-2133151.html | Java SE Development Kit 8 - Downloads
+
+https://enatai-git.eng.vmware.com/enatai/dcp/wikis/home | Wiki - enatai / dcp | GitLab
+https://enatai-git.eng.vmware.com/enatai/dcp/wikis/dcp-DeveloperGuide | Wiki - enatai / dcp | GitLab
+https://enatai-git.eng.vmware.com/enatai/dcp/wikis/dcp-Developer-deployments | Wiki - enatai / dcp | GitLab
+
+https://github.com/vmware/xenon/wiki/Developer-Guide | Developer Guide · vmware/xenon Wiki
+https://github.com/vmware/xenon/wiki/Developer-Guide | Developer Guide · vmware/xenon Wiki
+https://github.com/vmware/xenon/wiki/Contributing | Contributing · vmware/xenon Wiki
+https://github.com/vmware/xenon/wiki/Developer-Guide | Developer Guide · vmware/xenon Wiki
+https://github.com/vmware/xenon/wiki/Debugging-and-Troubleshooting | Debugging and Troubleshooting · vmware/xenon Wiki
+http://vmware.github.io/xenon/ | Project Xenon™ by VMware®
+https://github.com/vmware/xenon | vmware/xenon: Xenon - Decentralized Control Plane Framework
+https://github.com/vmware/xenon/wiki/Developer-Guide | Developer Guide · vmware/xenon Wiki
+https://github.com/vmware/xenon/wiki/Gerrit-workflow | Create New Page · vmware/xenon Wiki
+https://github.com/vmware/xenon/wiki/Debugging-and-Troubleshooting#starting-a-host | Debugging and Troubleshooting · vmware/xenon Wiki
+https://github.com/vmware/xenon/wiki | Home · vmware/xenon Wiki
+https://gist.github.com/pietern/cc78ec1d2200535c5a26 | Gerrit wrapper
+
+http://docs.openstack.org/infra/manual/developers.html | Developer’s Guide — OpenStack Project Infrastructure Manual 0.0.1.dev226 documentation
+http://git.openstack.org/cgit/openstack-infra/git-review/tree/README.rst | openstack-infra/git-review - Tool for uploading changesets to Gerrit from git
+http://docs.openstack.org/project-team-guide/project-setup/python.html#running-python-unit-tests | Python Project Guide — OpenStack Project Team Guide 0.0.1.dev81 documentation
+http://www.openstack.org/ | Home » OpenStack Open Source Cloud Computing Software
+
+https://www.entropywins.wtf/blog/2013/07/01/resolving-a-merge-conflict-on-gerrit/ | Resolving a merge conflict on gerrit – Entropy Wins
+https://www.entropywins.wtf/craftsmanship | Software Craftsmanship - Site of Jeroen De Dauw
+https://www.atlassian.com/git/tutorials/rewriting-history/ | Git - Rewriting History | Atlassian Git Tutorial
+https://www.mediawiki.org/wiki/Gerrit/resolve_conflict | Gerrit/resolve conflict - MediaWiki
+https://git-scm.com/book/en/v2/Git-Tools-Rewriting-History | Git - Rewriting History
+http://stackoverflow.com/questions/134882/undoing-a-git-rebase | Undoing a git rebase - Stack Overflow
+http://stackoverflow.com/questions/32490288/undo-git-rebase | Undo Git Rebase - Stack Overflow
+http://git-scm.com/book/en/v2/Git-Branching-Rebasing | Git - Rebasing
+https://github.com/blog/2019-how-to-undo-almost-anything-with-git | How to undo (almost) anything with Git
+
+https://gerrit-review.googlesource.com/Documentation/user-inline-edit.html#not-implemented-features | Inline Edit
+https://gerrit-review.googlesource.com/Documentation/user-review-ui.html | Review UI
+https://www.mediawiki.org/wiki/Gerrit/Advanced_usage | Gerrit/Advanced usage - MediaWiki
+https://www.mediawiki.org/wiki/Gerrit/resolve_conflict | Gerrit/resolve conflict - MediaWiki
+http://comments.gmane.org/gmane.comp.version-control.repo/14520 | Repo and Gerrit Discussion ()
+https://gerrit-documentation.storage.googleapis.com/Documentation/2.10/access-control.html#category_submit | Gerrit Code Review - Access Controls
+
+http://stackoverflow.com/questions/16931746/how-to-unsquash-a-commit | git - How to unsquash a commit? - Stack Overflow
+https://git-scm.com/book/en/v2/Git-Tools-Rewriting-History | Git - Rewriting History
+https://git-scm.com/docs/git-log | Git - git-log Documentation
+http://git-scm.com/docs/git-rebase#_interactive_mode | Git - git-rebase Documentation
+http://stackoverflow.com/questions/5189560/squash-my-last-x-commits-together-using-git/5201642#5201642 | Squash my last X commits together using Git - Stack Overflow
+http://stackoverflow.com/questions/179123/edit-an-incorrect-commit-message-in-git?rq=1 | Edit an incorrect commit message in Git - Stack Overflow
+
+https://www.google.com/search?q=git+files+in+a+commit&oq=git+files+in+a+commit&aqs=chrome.0.0l6.3332j0j7&sourceid=chrome&es_sm=119&ie=UTF-8#q=git+spitting+a+commit+ | git spitting a commit - Google Search
+http://stackoverflow.com/questions/424071/how-to-list-all-the-files-in-a-commit | git - How to list all the files in a commit? - Stack Overflow
+http://stackoverflow.com/questions/21515084/list-files-modified-for-particular-git-commit | List files modified for particular git commit - Stack Overflow
+http://stackoverflow.com/questions/3564598/remove-file-from-commit | git - Remove file from commit - Stack Overflow
+http://stackoverflow.com/questions/348170/undo-git-add-before-commit | version control - Undo 'git add' before commit - Stack Overflow
+http://stackoverflow.com/questions/6217156/break-a-previous-commit-into-multiple-commits | git - Break a previous commit into multiple commits - Stack Overflow
+http://stackoverflow.com/questions/1440050/how-to-split-last-commit-into-two-in-git | version control - How to split last commit into two in Git - Stack Overflow
+https://cbx33.github.io/gitt/afterhours5-1.html | Git In The Trenches
+
+http://botocore.readthedocs.org/en/latest/index.html | Welcome to botocore — botocore 1.4.1 documentation
+https://readthedocs.org/ | Home | Read the Docs
+https://www.google.com/search?q=popular+projects+on+readthedocs.org&oq=popular+projects+on+readthedocs.org&aqs=chrome..69i57.6776j1j7&sourceid=chrome&es_sm=119&ie=UTF-8#q=integrating+readthedocs.org+and+javadoc | integrating readthedocs.org and javadoc - Google Search
+http://docs.readthedocs.org/en/latest/faq.html | Frequently Asked Questions — Read The Docs 1.0 documentation
+https://opensourcehacker.com/2012/07/26/open-source-project-documentation-on-github-and-readthedocs-org-a-year-later/ | Open source project documentation on Github and readthedocs.org – a year later
+http://alex.hyperiongray.com/posts/302352-pwn-the-docs | Pwn The Docs: Vulnerability in readthedocs.org « Chronicles of a Gray Hat
+http://maven-tools.readthedocs.org/en/stable/ | maven-tools
+http://javasphinx.readthedocs.org/en/latest/ | javasphinx User’s Guide — javasphinx 0.9.12 documentation
+http://read-the-docs.readthedocs.org/en/latest/features/embed.html | Content Embedding — Read The Docs 1.0 documentation
+https://github.com/rtfd/readthedocs.org/issues/1007 | Support language-specific API generation tools · Issue #1007 · rtfd/readthedocs.org
+https://news.ycombinator.com/item?id=7857064 | Dash – Beautiful instant offline docs for almost everything | Hacker News
+
+https://schneide.wordpress.com/2014/03/31/centralized-project-documentation/ | Centralized project documentation | Schneide Blog
+https://schneide.wordpress.com/2014/07/28/documentation-for-your-project-what-and-how/ | Documentation for your project: what and how | Schneide Blog
+http://www.stack.nl/~dimitri/doxygen/ | Doxygen: Main Page
+http://www.oracle.com/technetwork/java/javase/documentation/index-jsp-135444.html | Javadoc Tool Home Page
+http://flask.pocoo.org/docs/0.10/errorhandling/ | Logging Application Errors — Flask Documentation (0.10)
+http://www.sphinx-doc.org/en/stable/ | Overview — Sphinx 1.3.7+ documentation
+http://doc.jsfiddle.net/ | jsFiddle Documentation — jsFiddle 0.5a2 documentation
+http://docutils.sourceforge.net/ | Docutils: Documentation Utilities
+https://en.wikipedia.org/wiki/Javadoc | Javadoc - Wikipedia, the free encyclopedia
+https://en.wikipedia.org/wiki/Doxygen | Doxygen - Wikipedia, the free encyclopedia
+
+http://blog.lattyware.co.uk/post/93792267381/javadocs-are-not-documentation | Gareth Latty — JavaDocs are not documentation.
+http://stackoverflow.com/questions/14254527/python-parsing-javadoc-with-python-sphinx | java - Python: Parsing javadoc with Python-Sphinx - Stack Overflow
+http://bronto.github.io/javasphinx/ | javasphinx User’s Guide — javasphinx 0.9.8 documentation
+https://github.com/michaeljones/breathe | michaeljones/breathe: ReStructuredText and Sphinx bridge to Doxygen
+http://breathe.readthedocs.org/en/latest/quickstart.html | Quick Start — Breathe 'latest' documentation
+https://www.google.com/search?q=docxygen+java+doc+examples&oq=docxygen+java+doc+examples&aqs=chrome..69i57j0l2.6884j0j4&sourceid=chrome&es_sm=119&ie=UTF-8#q=sphinx+java+tutorial | sphinx java tutorial - Google Search
+https://breathe.readthedocs.org/en/latest/ | Breathe’s documentation — Breathe 'latest' documentation
+https://www.safaribooksonline.com/blog/2013/04/23/documenting-multiple-programming-language-apis-with-sphinx/ | Documenting Multiple Programming Language APIs with Sphinx - Safari Blog
+https://www.stack.nl/~dimitri/doxygen/manual/docblocks.html | Doxygen Manual: Documenting the code
+https://www.stack.nl/~dimitri/doxygen/manual/markdown.html | Doxygen Manual: Markdown support
+https://www.stack.nl/~dimitri/doxygen/manual/examples/qtstyle/html/class_q_tstyle___test.html | Qt Style: QTstyle_Test Class Reference
+http://build-me-the-docs-please.readthedocs.org/en/latest/Using_Sphinx/ShowingCodeExamplesInSphinx.html | Showing source code examples in Sphinx — Wiser 0.1 documentation
+http://stackoverflow.com/questions/7837319/are-there-anything-i-should-follow-when-documenting-code-or-how-to-propely-doc/7838911#7838911 | language agnostic - Are there anything I should follow when documenting code, or, how to propely document? - Stack Overflow
+
+https://www.google.com/search?q=intelliJ+gerrit+config+ssh&oq=intelliJ+gerrit+config+ssh&aqs=chrome..69i57.7609j0j7&sourceid=chrome&es_sm=119&ie=UTF-8 | intelliJ gerrit config ssh - Google Search
+https://github.com/uwolfer/gerrit-intellij-plugin/issues/12 | Reviews don't show when using SSH based Gerrit remotes · Issue #12 · uwolfer/gerrit-intellij-plugin
+https://github.com/uwolfer/gerrit-intellij-plugin/issues/10 | Project name detection not working if base API url is not the root · Issue #10 · uwolfer/gerrit-intellij-plugin
+http://gerrit.hostname/ | http://gerrit.hostname/ is not available
+https://github.com/uwolfer/gerrit-intellij-plugin/issues/83 | Repository not found · Issue #83 · uwolfer/gerrit-intellij-plugin
+https://plugins.jetbrains.com/plugin/7272 | JetBrains Plugin Repository :: Gerrit
+http://www.saros-project.org/eclipse-setup-ssh | Create and configure an SSH key for using Gerrit | Saros
+
+https://github.com/blog | The GitHub Blog
+https://guides.github.com/pdfs/markdown-cheatsheet-online.pdf | markdown-cheatsheet-online.pdf
+http://www.emoji-cheat-sheet.com/ | Emoji cheat sheet for GitHub, Basecamp and other services
+https://gist.github.com/asabaylus/3071099 | Github Markdown Heading Anchors
+
+https://help.github.com/articles/which-remote-url-should-i-use/#cloning-with-ssh-urls | Which remote URL should I use? - User Documentation
+https://help.github.com/articles/set-up-git/ | Set Up Git - User Documentation
+http://nerderati.com/2011/03/17/simplify-your-life-with-an-ssh-config-file/ | Simplify Your Life With an SSH Config File · Nerderati
+http://stackoverflow.com/questions/1595848/configuring-git-over-ssh-to-login-once | Configuring Git over SSH to login once - Stack Overflow
+https://confluence.atlassian.com/bitbucket/set-up-ssh-for-git-728138079.html | Set up SSH for Git - Atlassian Documentation
+
+https://confluence.eng.vmware.com/display/MCS/MBU+Container+Strategy | MBU Container Strategy - MBU Container Strategy - Confluence Wiki
+https://confluence.eng.vmware.com/pages/viewpage.action?spaceKey=MCS&title=Containerized+vRA+Environment+-+Running | Containerized vRA Environment - Running - MBU Container Strategy - Confluence Wiki
+https://confluence.eng.vmware.com/display/MCS/Continuous+Integration+as+a+Service+Project | Continuous Integration as a Service Project - MBU Container Strategy - Confluence Wiki
+https://confluence.eng.vmware.com/display/MCS/Docker+overlay+networks+in+Bellevue | Docker overlay networks in Bellevue - MBU Container Strategy - Confluence Wiki
+https://docs.docker.com/engine/userguide/networking/dockernetworks/ | Docker container networking
+https://docs.docker.com/engine/userguide/networking/get-started-overlay/ | Get started with multi-host networking
+https://confluence.eng.vmware.com/display/MCS/Demos+and+Screenshots | Demos and Screenshots - MBU Container Strategy - Confluence Wiki
+https://confluence.eng.vmware.com/display/MCS/Container+project+Dev+Setup | Container project Dev Setup - MBU Container Strategy - Confluence Wiki
+
+https://enatai-git.eng.vmware.com/enatai/dcp/wikis/dcp-Developer-deployments | Wiki - enatai / dcp | GitLab
+https://enatai-git.eng.vmware.com/enatai/dcp-docs | enatai / dcp-docs | GitLab
+https://enatai-git.eng.vmware.com/groups/enatai/group_members | enatai | GitLab
+https://enatai-git.eng.vmware.com/help/permissions/permissions.md | Dashboard | GitLab
+https://enatai-git.eng.vmware.com/help/public_access/public_access.md | Dashboard | GitLab
+https://enatai-git.eng.vmware.com/help/ssh/README.md | Dashboard | GitLab
+https://enatai-git.eng.vmware.com/help/web_hooks/web_hooks.md | Dashboard | GitLab
+https://enatai-git.eng.vmware.com/help/permissions/permissions | Dashboard | GitLab
+https://enatai-git.eng.vmware.com/groups/enatai/group_members | enatai | GitLab
+https://enatai-git.eng.vmware.com/help/ssh/README | Dashboard | GitLab
+https://enatai-git.eng.vmware.com/ | Dashboard | GitLab
+
+https://www.google.com/search?q=installing+vagrant&oq=installing+vagrant&aqs=chrome.0.0l6.3043j0j7&sourceid=chrome&es_sm=119&ie=UTF-8#q=install+vagrant+vmware+fusion | install vagrant vmware fusion - Google Search
+https://www.vagrantup.com/docs/installation/ | Installing Vagrant - Vagrant by HashiCorp
+https://www.vagrantup.com/docs/getting-started/ | Getting Started - Vagrant by HashiCorp
+https://www.vagrantup.com/downloads.html | Download - Vagrant by HashiCorp
+http://www.olindata.com/blog/2014/07/installing-vagrant-and-virtual-box-ubuntu-1404-lts | Installing Vagrant and Virtual box on Ubuntu 14.04 LTS | OlinData
+http://coolestguidesontheplanet.com/getting-started-vagrant-os-osx-10-9-mavericks/ | Getting Started with Vagrant on OSX 10.10 Yosemite | Coolestguidesontheplanet.com | Neil Gee
+https://www.howtoforge.com/tutorial/ubuntu-vagrant-install-and-getting-started/ | Starting with Vagrant on Ubuntu 14.10 - A Beginner's Guide
+https://www.vagrantup.com/docs/docker/ | Docker Provider - Vagrant by HashiCorp
+https://www.vagrantup.com/docs/vmware/ | VMware Provider - Vagrant by HashiCorp
+https://www.vagrantup.com/vmware/ | VMware Integration - Vagrant by HashiCorp
+
+http://scpd.stanford.edu/search/publicCourseSearchDetails.do?method=load&courseId=1164541&showInternal=true | STATS315B Modern Applied Statistics: Data Mining | Stanford Center for Professional Development
+
+http://scpd.stanford.edu/admissions/apply-and-enroll/master%E2%80%99s-degrees-admissions | Master’s Degrees Admissions | Stanford Center for Professional Development
+
+https://www.google.com/search?q=stanford+distance+engineering&oq=stanford+distan&aqs=chrome.5.0j69i57j0l4.10376j0j7&sourceid=chrome&es_sm=119&ie=UTF-8 | stanford distance engineering - Google Search
+http://scpd.stanford.edu/online-engineering-courses.jsp | Online Engineering Courses | Stanford University
+http://scpd.stanford.edu/university-online-courses.jsp?gclid=CKnw4Nuaj64CFSwDQAodlCz7gg | University Online Courses | Stanford University
+http://scpd.stanford.edu/programs/graduate-certificates | Graduate Certificates | Stanford Center for Professional Development
+http://scpd.stanford.edu/programs/corporate-education/corporate-graduate-programs | Corporate Graduate Programs | Stanford University
+http://scpd.stanford.edu/programs/corporate-education/corporate-graduate-programs/member-companies | Member Companies | Stanford Center for Professional Development
+http://scpd.stanford.edu/public/category/courseCategoryCertificateProfile.do?method=load&certificateId=1226717 | Artificial Intelligence Graduate Certificate | Stanford Center for Professional Development
+http://scpd.stanford.edu/admissions/apply-and-enroll/graduate-certificate-admissions | Graduate Certificate Admissions | Stanford Center for Professional Development
+http://scpd.stanford.edu/public/category/courseCategoryCertificateProfile.do?method=load&certificateId=1209602#searchResults | Data Mining and Applications Graduate Certificate | Stanford Center for Professional Development
+http://scpd.stanford.edu/search/publicCourseSearchDetails.do?method=load&courseId=11750&showInternal=true | CS223A Introduction to Robotics | Stanford Center for Professional Development
+https://scpd.stanford.edu/public/request/abbreviatedStudentProfile.do?newStudent=true | Customer Service Request | Stanford Center for Professional Development
+http://scpd.stanford.edu/home | Stanford Center for Professional Development |
+http://scpd.stanford.edu/search/publicCourseCertificateSearch.do?method=searchCert&courseSearch.courseDescriptionKeyword=&courseSearch.certificateStringArray=MS+Degree+or+Depth&buttonSearch=Search | Certificates and Degrees Search Results | Stanford Center for Professional Development
+http://engineering.stanford.edu/education/professional-development-and-continuing-education | Professional Development and Continuing Education | Engineering
+
+https://www.expedia.com/packagesearch?cadu1=2&Direct=0&drtn1=08/28/2016&qryt=8&langid=1033&ckdr1=0&paandi=true&rdct=1&subm=1&ttla=MXP&cmbt=2&dnam=Cernobbio,%20Italy&crom=1&infs=0&destinationId=6049482&rfrr=Page.Packages.Disambig.Dest.Airport.BestMatch&dcty=SEA&ddpt1=08/25/2016 | Seattle, WA (SEA-Seattle - Tacoma Intl.) to Cernobbio Vacation Package Deals | Expedia
+https://www.expedia.com/Hotel-Search?#destination=Cernobbio,+Italy&startDate=08/25/2016&endDate=08/28/2016&adults=2&regionId=6049482&sort=recommended&guided=0,0,0&page=1 | Getting Search Results | Expedia
+https://www.expedia.com/Lake-Como-Hotels-Regina-Olga-Hotel.h1192.Hotel-Information?chkin=08/25/2016&chkout=08/28/2016&rm1=a2&hwrqCacheKey=4c7e5d95-4cfa-4f08-be9d-b955b55973c1HWRQ1456825206277&c=224cb419-2ed6-4a44-87d2-81e2dbd9e5bc& | Regina Olga Hotel (Cernobbio, Italy) | Expedia
+https://www.expedia.com/HotelBookingConfirmation?tripid=6f261fdd-32d6-4ccc-a8e0-5c876f6ccd5c&c=0b3b8105-b0ba-448c-9e2d-08a93e1b372c&orderId=-9223372035727984415 | Expedia: Confirmation
+https://www.expedia.com/Lake-Como-Hotels-Hotel-Miralago.h8767386.Hotel-Information?chkin=08/25/2016&chkout=08/28/2016&rm1=a2&hwrqCacheKey=4c7e5d95-4cfa-4f08-be9d-b955b55973c1HWRQ1456824980765&c=ff36f693-4460-434f-851f-78c2e0425480& | Hotel Miralago (Cernobbio, Italy) | Expedia
+https://www.expedia.com/Lake-Como-Hotels-Albergo-Ristorante-Giardino.h5964207.Hotel-Information?chkin=08/25/2016&chkout=08/28/2016&rm1=a2&hwrqCacheKey=4c7e5d95-4cfa-4f08-be9d-b955b55973c1HWRQ1456824980765&c=ff36f693-4460-434f-851f-78c2e0425480& | Albergo Ristorante Giardino (Cernobbio, Italy) | Expedia
+https://www.expedia.com/Lake-Como-Hotels-Hotel-Centrale.h2542542.Hotel-Information?chkin=08/25/2016&chkout=08/28/2016&rm1=a2&hwrqCacheKey=4c7e5d95-4cfa-4f08-be9d-b955b55973c1HWRQ1456824980765&c=ff36f693-4460-434f-851f-78c2e0425480& | Hotel Centrale (Cernobbio, Italy) | Expedia
+https://www.expedia.com/Lake-Como-Hotels-Hotel-Ristorante-Terzo-Crotto.h5169914.Hotel-Information?chkin=08/25/2016&chkout=08/28/2016&rm1=a2&hwrqCacheKey=4c7e5d95-4cfa-4f08-be9d-b955b55973c1HWRQ1456824980765&c=ff36f693-4460-434f-851f-78c2e0425480& | Hotel Ristorante Terzo Crotto (Cernobbio, Italy) | Expedia
+https://www.expedia.com/Blevio-Hotels-CastaDiva-Resort-Spa.h3684389.Hotel-Information?chkin=08%2F25%2F2016&chkout=08%2F28%2F2016&rm1=a2&hwrqCacheKey=4c7e5d95-4cfa-4f08-be9d-b955b55973c1HWRQ1456825206277&c=224cb419-2ed6-4a44-87d2-81e2dbd9e5bc& | CastaDiva Resort & Spa (Blevio, Italy) | Expedia
+https://www.expedia.com/Moltrasio-Hotels-Grand-Hotel-Imperiale-Resort.h34138.Hotel-Information?chkin=08%2F25%2F2016&chkout=08%2F28%2F2016&rm1=a2&hwrqCacheKey=4c7e5d95-4cfa-4f08-be9d-b955b55973c1HWRQ1456825206277&c=224cb419-2ed6-4a44-87d2-81e2dbd9e5bc& | Grand Hotel Imperiale & Resort (Moltrasio, Italy) | Expedia
+https://www.expedia.com/Lake-Como-Hotels-Hotel-Villa-Flori.h7434.Hotel-Information?packagePIID=96297444-fd27-4329-8309-2a0c2f8641c5-0&usePS=1&packageType=fh&hotelId=7434&currentRatePlan=200044336200257029&langid=1033&packageType=fh&originId=6000578&ftla=SEA&paandi=true&numberOfRooms=1&ttla=MXP&toDate=08/28/2016&isDirectFlight=0&hlrId=0&infantsInSeats=0&fromDate=08/25/2016&defaultFlights=ad2a8dfbf604ff6b807f8ec4e1af15ec,d63276c9307dff812ca7646b3abfe2cd&destinationId=6049482&adultsPerRoom[1]=2&currentFlights=ad2a8dfbf604ff6b807f8ec4e1af15ec,d63276c9307dff812ca7646b3abfe2cd&prices=3055.27&inttkn=5IC3Oqw2A9tCe3Zw | Hotel Villa Flori (Como, Italy) | Expedia
+
+https://www.google.com/maps/place/Hotel+Metropole+Suisse/@45.8303883,9.0487435,14z/data=!4m5!1m2!2m1!1sHotel+Giardino+cernobbio!3m1!1s0x0000000000000000:0xd5d00c1aeb27e05b | Hotel Metropole Suisse - Google Maps
+http://www.villadeste.com/ | Villa d’Este - Luxury Hotel Italy in Como Lake, Cernobbio
+http://www.sheratonlakecomo.com/ | Sheraton Lake Como Hotel
+http://www.hotelreginaolga.it/ | Hotel Regina Olga **** - Cernobbio (Como) : Hotel
+http://www.hotel-villa-flori.com/
+http://www.giardinocernobbio.com/ | Home - Ristorante Giardino
+http://www.castadivaresort.com/ | 5 stars luxury hotel spa | CastaDiva Resort & SPA
+
+http://www.booking.com/searchresults.html?aid=351485;label=metakayak-linkdsk-coreus-hotel-186241_xqdz-e56ea3439f951e5b78851eb03d8fbca1_los-04_bw-177_curr-USD_nrm-01_gst-02_lang-en-us_clkid-Rxm2T2qDrpNLRTvFXVzrLA;sid=07521ddc898228c0e083513ca105e540;dcid=4;checkin=2016-08-25;checkout=2016-08-29;dest_id=-115132;dest_type=city;highlighted_hotels=186241;hlrd=1;redirected=1;sa=hp;source=hotel&utm_campaign=us&utm_content=los-04_nrm-01_gst-02&utm_medium=dsk-core&utm_source=metakayak&utm_term=hotel-186241& | Booking.com: Hotels in Cernobbio. Book your hotel now!
+http://www.booking.com/hotel/it/la-corte-di-zizi.html?aid=351485;label=metakayak-linkdsk-coreus-hotel-186241_xqdz-e56ea3439f951e5b78851eb03d8fbca1_los-04_bw-177_curr-USD_nrm-01_gst-02_lang-en-us_clkid-Rxm2T2qDrpNLRTvFXVzrLA;sid=07521ddc898228c0e083513ca105e540;dcid=4;checkin=2016-08-25;checkout=2016-08-29;dist=0;room1=A%2CA;sb_price_type=total;srfid=2dbd1628bc86a0ea0714777833333bdba04776b9X15;type=total;ucfs=1& | Vacation Home La Corte di Zizi, Cernobbio, Italy - Booking.com
+http://www.booking.com/hotel/it/villa-cernobbio.html?aid=351485;label=metakayak-linkdsk-coreus-hotel-186241_xqdz-e56ea3439f951e5b78851eb03d8fbca1_los-04_bw-177_curr-USD_nrm-01_gst-02_lang-en-us_clkid-Rxm2T2qDrpNLRTvFXVzrLA;sid=07521ddc898228c0e083513ca105e540;dcid=4;checkin=2016-08-25;checkout=2016-08-29;dist=0;room1=A%2CA;sb_price_type=total;srfid=2dbd1628bc86a0ea0714777833333bdba04776b9X11;type=total;ucfs=1& | Villa Cernobbio, Italy - Booking.com
+https://www.kayak.com/hotels/Cernobbio%2CItaly-c42180/2016-08-25/2016-08-29/2guests;map | Cernobbio, 8/25 – 8/29
+
+http://www.tripadvisor.com/Hotels-g187833-Lake_Como_Lombardy-Hotels.html | The 10 Best Lake Como Hotels (Italy) - TripAdvisor
+http://www.tripadvisor.com/Hotel_Review-g946755-d8022316-Reviews-Melia_Campione-Campione_d_Italia_Lake_Como_Lombardy.html | Melia Campione (Campione d'Italia, Italy) - Hotel Reviews - TripAdvisor
+http://www.tripadvisor.com/Hotels-g194728-Cernobbio_Lake_Como_Lombardy-Hotels.html | The 10 Best Cernobbio Hotels - TripAdvisor
+http://www.tripadvisor.com/Hotel_Review-g194728-d617550-Reviews-Hotel_Centrale-Cernobbio_Lake_Como_Lombardy.html# | Hotel Centrale (Lake Como/Cernobbio, Italy) - Hotel Reviews - TripAdvisor
+http://www.tripadvisor.com/Hotel_Review-g2151206-d1853099-Reviews-Casta_Diva_Resort_SPA-Blevio_Lake_Como_Lombardy.html | Casta Diva Resort & SPA (Lake Como/Blevio, Italy) - Resort Reviews - TripAdvisor
+http://www.tripadvisor.com/Search?q=Residence&geo=194728&pid=3826&typeaheadRedirect=true&redirect=&startTime=1456852313836&uiOrigin=MASTHEAD&returnTo=__2F__Hotel__5F__Review__2D__g194728__2D__d197757__2D__Reviews__2D__Villa__5F__d__5F__Este__2D__Cernobbio__5F__Lake__5F__Como__5F__Lombardy__2E__html | Search results: Residence - TripAdvisor
+http://www.tripadvisor.com/Hotel_Review-g194728-d197757-Reviews-Villa_d_Este-Cernobbio_Lake_Como_Lombardy.html | Villa d'Este (Lake Como/Cernobbio, Italy) - Hotel Reviews - TripAdvisor
+https://www.travelocity.com/Hotel-Search?mdpdtl=HTL.6423.US.VtVeXQoQK3EAAUqgc6EAAAAf.AUDID.&mdpcid=travelocity-us.meta.tripadvisor.coresearch-DM.hotel&mctc=9&paandi=true#startDate=8%2F25%2F2016&endDate=8%2F28%2F2016&adults=2&selected=6423 | Lake Como (area) Hotel Search Results | Travelocity
+https://www.travelocity.com/Lake-Como-Hotels-Villa-D-Este.h6423.Hotel-Information?chkin=08/25/2016&chkout=08/28/2016&rm1=a2&hwrqCacheKey=5ed3a2b2-d56c-4499-8510-3450bcc45dd4HWRQ1456823911148&c=372d9817-11bf-469c-a5ed-9e1996d41480& | Villa D Este (Cernobbio, Italy) | Travelocity.com
+https://www.expedia.com/Hotel-Search?eapid=40462-1&ICMDTL=htl.6423.taid.197757.geoid.194728.testslice..clickid.VtVeQwoQMW8AAB9e-eYAAAA1.AUDID.&mctc=9&ICMCID=Meta.tripa.Expedia_US-DM#startDate=08%2F25%2F2016&endDate=08%2F28%2F2016&adults=2&selected=6423 | Lake Como (area) Hotel Search Results | Expedia
+http://www.tripadvisor.com/Hotel_Review-g194728-d503259-Reviews-Hotel_Miralago-Cernobbio_Lake_Como_Lombardy.html#photos;geo=194728&detail=503259&ff=103246591&albumViewMode=hero&albumid=101&baseMediaId=103246591&thumbnailMinWidth=50&cnt=3&offset=-1&filter=2 | Hotel Miralago (Lake Como/Cernobbio, Italy) - Hotel Reviews - TripAdvisor
+http://www.tripadvisor.com/Hotel_Review-g194728-d8341692-Reviews-Casa_Santo_Stefano-Cernobbio_Lake_Como_Lombardy.html# | Casa Santo Stefano (Lake Como/Cernobbio, Italy) - B&B Reviews - TripAdvisor
+http://www.tripadvisor.com/Hotel_Review-g187835-d202801-Reviews-Sheraton_Lake_Como_Hotel-Como_Lake_Como_Lombardy.html | Sheraton Lake Como Hotel (Italy) - Hotel Reviews - TripAdvisor
+http://www.tripadvisor.com/Hotel_Review-g194728-d617550-Reviews-Hotel_Centrale-Cernobbio_Lake_Como_Lombardy.html | Hotel Centrale (Lake Como/Cernobbio, Italy) - Hotel Reviews - TripAdvisor
+http://www.tripadvisor.com/Hotel_Review-g187835-d202799-Reviews-Hotel_Villa_Flori-Como_Lake_Como_Lombardy.html | Hotel Villa Flori (Como, Italy - Lake Como) - Hotel Reviews - TripAdvisor
+http://www.tripadvisor.com/Hotel_Review-g187835-d233468-Reviews-Metropole_Suisse_Hotel-Como_Lake_Como_Lombardy.html | Metropole Suisse Hotel (Como, Italy - Lake Como) - Hotel Reviews - TripAdvisor
+http://www.tripadvisor.com/Hotel_Review-g194728-d675930-Reviews-Albergo_Trattoria_La_Vignetta-Cernobbio_Lake_Como_Lombardy.html | Albergo Trattoria La Vignetta (Lake Como/Cernobbio, Italy) - Hotel Reviews - TripAdvisor
+http://www.tripadvisor.com/Hotel_Review-g194728-d1238038-Reviews-Albergo_Ristorante_Giardino-Cernobbio_Lake_Como_Lombardy.html | Albergo Ristorante Giardino (Lake Como/Cernobbio, Italy) - Hotel Reviews - TripAdvisor
+http://www.tripadvisor.com/Hotel_Review-g194728-d229033-Reviews-Regina_Olga_Hotel-Cernobbio_Lake_Como_Lombardy.html# | Regina Olga Hotel (Lake Como/Cernobbio, Italy) - Hotel Reviews - TripAdvisor
+http://www.tripadvisor.com/Hotel_Review-g194728-d2267168-Reviews-Cernobbio_Residence-Cernobbio_Lake_Como_Lombardy.html | Cernobbio Residence (Lake Como, Italy) - Condominium Reviews - TripAdvisor
+http://www.tripadvisor.com/Hotel_Review-g635626-d637665-Reviews-Hotel_La_Perla-Tremezzina_Lake_Como_Lombardy.html | Hotel La Perla (Tremezzina, Italy - Lake Como) - Hotel Reviews - TripAdvisor
+http://www.tripadvisor.com/Hotel_Review-g2624003-d7346403-Reviews-Villa_Lario_Lake_Como-Pognana_Lario_Lake_Como_Lombardy.html | Villa Lario Lake Como (Pognana Lario, Italy) - Hotel Reviews - TripAdvisor
+http://www.tripadvisor.com/Hotel_Review-g187835-d277060-Reviews-Palace_Hotel-Como_Lake_Como_Lombardy.html | Palace Hotel (Como, Italy - Lake Como) - Hotel Reviews - TripAdvisor
+http://www.tripadvisor.com/Hotel_Review-g187834-d283366-Reviews-Hotel_Belvedere_Bellagio-Bellagio_Lake_Como_Lombardy.html | Hotel Belvedere Bellagio (Italy - Lake Como) - Hotel Reviews - TripAdvisor
+http://www.tripadvisor.com/Hotel_Review-g187835-d3940849-Reviews-Borgo_Antico_Hotel-Como_Lake_Como_Lombardy.html | Borgo Antico Hotel (Como, Italy - Lake Como) - Hotel Reviews - TripAdvisor
+http://www.tripadvisor.com/Hotel_Review-g946755-d8022316-Reviews-Melia_Campione-Campione_d_Italia_Lake_Como_Lombardy.html | Melia Campione (Campione d'Italia, Italy) - Hotel Reviews - TripAdvisor
+http://www.tripadvisor.com/Hotel_Review-g187835-d229031-Reviews-Albergo_Terminus_Hotel-Como_Lake_Como_Lombardy.html | Albergo Terminus Hotel (Como, Italy - Lake Como) - Hotel Reviews - TripAdvisor
+http://www.tripadvisor.com/Hotel_Review-g187835-d1189798-Reviews-Residence_Cavaclub-Como_Lake_Como_Lombardy.html | Residence Cavaclub (Como, Italy - Lake Como) - Hotel Reviews - TripAdvisor
+http://www.tripadvisor.com/Hotel_Review-g194728-d6686851-Reviews-Andrea_s_Rooms-Cernobbio_Lake_Como_Lombardy.html | Andrea's Rooms (Lake Como/Cernobbio, Italy) - Guest house Reviews - TripAdvisor
+http://www.tripadvisor.com/Hotel_Review-g194728-d3591920-Reviews-Bed_Breakfast_Le_Rose-Cernobbio_Lake_Como_Lombardy.html | Bed & Breakfast Le Rose (Lake Como/Cernobbio, Italy) - B&B Reviews - TripAdvisor
+
+https://www.kayak.com/hotels/Cernobbio%2CItaly-c42180/2016-08-25/2016-08-29/2guests;map | Cernobbio, 8/25 – 8/29
+https://www.kayak.com/hotelreservation?searchID=pGAEDnauyI&resultID=2505829&clickId=XFdX1449xJArSKTTxS5nmw&ProvidedByCode=13&searchTime=1456820840034&HotelId=2505829&shid=1592222&CheckInDate=08%2F25%2F2016&CheckOutDate=08%2F29%2F2016&NumRooms=1&NumGuests=2&roomTypeCode=159222201&totalPrice=193.51&basePrice=173.88&curr=USD&rateCode=159222201_88968514_2_1 | Como Hotel Booking - KAYAK
+http://www.booking.com/hotel/it/miralago-cernobbio.html?aid=351485;label=metakayak-linkdsk-coreus-hotel-186241_xqdz-e56ea3439f951e5b78851eb03d8fbca1_los-04_bw-177_curr-USD_nrm-01_gst-02_lang-en-us_clkid-Rxm2T2qDrpNLRTvFXVzrLA;sid=07521ddc898228c0e083513ca105e540;dcid=4;checkin=2016-08-25;checkout=2016-08-29;dist=0;room1=A%2CA;sb_price_type=total;srfid=2b55cdb0f4694f809bdfa1bae3979a068fb1a927X1;type=total;ucfs=1& | Hotel Miralago, Cernobbio, Italy - Booking.com
+https://www.kayak.com/hotelreservation?searchID=pGAEDnauyI&resultID=16834&clickId=LsHj2QtOqKkNQnK2yL_rPQ&ProvidedByCode=50&searchTime=1456820840034&HotelId=16834&shid=126050&CheckInDate=08%2F25%2F2016&CheckOutDate=08%2F29%2F2016&NumRooms=1&NumGuests=2&roomTypeCode=200044336&totalPrice=318.94&basePrice=285.00&curr=USD&rateCode=200257028 | Como Hotel Booking - KAYAK
+https://www.kayak.com/hotelreservation?searchID=pGAEDnauyI&resultID=2384756&clickId=1J%24rt1MpoKtOTVpXMH8O2Q&ProvidedByCode=13&searchTime=1456820840034&HotelId=2384756&shid=1468801&CheckInDate=08%2F25%2F2016&CheckOutDate=08%2F29%2F2016&NumRooms=1&NumGuests=2&roomTypeCode=146880101&totalPrice=166.17&basePrice=147.20&curr=USD&rateCode=146880101_89687606_2_2 | Como Hotel Booking - KAYAK
+http://www.hoteling.com/newproperty.aspx?pdl=true&mode=Hotel&depdate=25%2F08%2F2016&nights=4&adults=2&propertyreferenceID=10827&gc=HTUS&RefID=KAYAKUSHT&_$ja=tsid:74443|kw:10827 | Terminus | Como | Hoteling
+http://www.hoteling.com/newproperty.aspx?pdl=true&mode=Hotel&depdate=25%2F08%2F2016&nights=4&adults=2&propertyreferenceID=53214&gc=HTUS&RefID=KAYAKUSHT&_$ja=tsid:74443|kw:53214 | Hotel Metropole & Suisse | Como | Hoteling
+http://www.booking.com/searchresults.html?aid=351485;label=metakayak-linkdsk-coreus-hotel-1091905_xqdz-66be848d452442c563447ba4b5e73a35_los-04_bw-177_curr-USD_nrm-01_gst-02_lang-en-us_clkid-dlTmo0%24PTpXjRHvl0F%24dHg;sid=07521ddc898228c0e083513ca105e540;dcid=4;checkin=2016-08-25;checkout=2016-08-29;dest_id=-116052;dest_type=city;highlighted_hotels=1091905;hlrd=1;redirected=1;sa=hp;source=hotel&utm_campaign=us&utm_content=los-04_nrm-01_gst-02&utm_medium=dsk-core&utm_source=metakayak&utm_term=hotel-1091905& | Booking.com: Hotels in Como. Book your hotel now!
+
+https://www.google.com/search?q=mac+outlook+calendar+rules&oq=mac+outlook+calendar+rules&aqs=chrome..69i57.7030j0j7&sourceid=chrome&es_sm=119&ie=UTF-8 | mac outlook calendar rules - Google Search
+http://www.it.cornell.edu/services/guides/facstaff_email/harmony/rule-outlook2011.cfm | IT: Create a Rule for Meeting Invitations (Outlook 2011)
+http://superuser.com/questions/637750/how-can-i-filter-meeting-requests-and-other-calendar-items-in-outlook-2011-with | How can I filter meeting requests and other calendar items in Outlook 2011 with a local client-side rule? - Super User
+https://support.office.com/en-US/article/Manage-email-messages-by-using-rules-C24F5DEA-9465-4DF4-AD17-A50704D66C59 | Manage email messages by using rules - Outlook
+https://support.office.com/en-us/article/Create-a-rule-40ad6380-6079-4b87-a7df-e734026c7569 | Create a rule - Outlook for Mac
+https://support.office.com/en-us/article/Organize-mailing-list-messages-03b921d5-4412-4f2a-b91c-e906481dfcf8 | Organize mailing list messages - Outlook for Mac
+https://support.office.com/en-us/article/Edit-a-rule-616e452d-9c8d-49a5-8a4e-04437d242acd | Edit a rule - Outlook for Mac
+https://support.office.com/en-US/search/results?query=2016+calendar+rules+organize | Search results for '2016 calendar rules organize' - Office.com
+https://support.office.com/en-US/article/Copy-reports-calendars-and-views-using-the-Organizer-78D9C687-B70F-4A20-86C5-E1C65C124261 | Copy reports, calendars, and views using the Organizer - Project
+https://support.office.com/en-US/article/Create-additional-calendars-7ED416DF-6463-4290-840E-ADACBB9D9A96 | Create additional calendars - Outlook for Mac
+https://support.office.com/en-US/article/Calendar-I-Outlook-calendar-basics-0CDF1F1E-CDD5-4AC2-99CE-50429D608DD9 | Calendar I: Outlook calendar basics - Outlook
+https://support.office.com/en-US/article/Calendar-II-See-and-use-multiple-calendars-E7732C12-296E-4F56-B6DA-75CB852CED91 | Calendar II: See and use multiple calendars - Outlook
+https://support.office.com/en-US/article/Get-organized-with-Outlook-24CD4303-243D-4863-BFE9-881B74EB2535 | Get organized with Outlook - Outlook
+https://support.office.com/en-US/article/Organize-your-notes-C3C8B098-7F9C-4C2A-A0DC-EBB83BC76364 | Organize your notes - OneNote
+https://support.office.com/en-US/article/Organize-your-calendar-with-color-categories-74688307-88D1-40CB-98C2-92C5D7AA2E97 | Organize your calendar with color categories - Outlook
+https://support.office.com/en-US/article/Create-and-share-a-public-folder-A2835011-D524-4A5C-A207-05C159BB2A97 | Create and share a public folder - Outlook
+https://support.office.com/en-US/article/outlook-best-practices-how-harry-got-organized-eaca7cd4-707c-475a-b308-0cfb1c24686d | Outlook Best Practices: How Harry got organized - Outlook
+https://support.office.com/en-US/article/Create-additional-calendars-in-Outlook-2016-for-Mac-43de6e00-35a5-41fb-a37d-0cb17c650114 | Create additional calendars in Outlook 2016 for Mac - Office 365
+
+https://vmware.github.io/ | VMware® Open Source Software
+https://github.com/join?return_to=%2Forgs%2Fvmware%2Fpeople&source=login | Join GitHub · GitHub
+https://www.google.com/search?q=merging+github+accounts&oq=merging+github+accounts&aqs=chrome..69i57j0l2.3927j0j7&sourceid=chrome&es_sm=119&ie=UTF-8 | merging github accounts - Google Search
+https://help.github.com/articles/merging-multiple-user-accounts/ | Merging multiple user accounts - User Documentation
+http://stackoverflow.com/questions/25428650/do-i-need-two-github-accounts-for-this | git - Do I need two GitHub accounts for this? - Stack Overflow
+https://help.github.com/articles/what-s-the-difference-between-user-and-organization-accounts/ | What's the difference between user and organization accounts? - User Documentation
+https://help.github.com/articles/permission-levels-for-an-organization/ | Permission levels for an organization - User Documentation
+
+https://help.launchpad.net/ | FrontPage - Launchpad Help
+https://help.launchpad.net/Projects | Projects - Launchpad Help
+https://help.launchpad.net/YourAccount | YourAccount - Launchpad Help
+
+https://www.google.com/search?q=os+x+applescript+launcher&oq=os+x+applescript+launcher&aqs=chrome..69i57.17672j0j7&sourceid=chrome&es_sm=119&ie=UTF-8#q=os+x+applescript+manual | os x applescript manual - Google Search
+https://developer.apple.com/library/mac/technotes/tn1164/_index.html#//apple_ref/doc/uid/DTS10003003 | Technical Note TN1164: Scripting Additions for Mac OS X
+https://developer.apple.com/library/mac/documentation/AppleScript/Conceptual/AppleScriptLangGuide/conceptual/ASLR_fundamentals.html#//apple_ref/doc/uid/TP40000983-CH218-SW3 | AppleScript Fundamentals
+http://www.macworld.co.uk/feature/mac-software/how-to-applescript-tutorial-3623522/ | An introduction to using AppleScript: AppleScript tutorial - Features - Macworld UK
+http://computers.tutsplus.com/tutorials/the-ultimate-beginners-guide-to-applescript--mac-3436 | The Ultimate Beginner's Guide To AppleScript - Envato Tuts+ Computer Skills Tutorial
+https://www.smashingmagazine.com/2009/05/mac-hacks-17-applescripts-to-make-your-life-easier/ | Mac Hacks: 17 AppleScripts To Make Your Life Easier – Smashing Magazine
+http://www.computerworld.com/article/2524645/operating-systems/10-applescripts-to-make-you-love-your-mac--even-more-.html | 10 AppleScripts to make you love your Mac (even more) | Computerworld
+http://stackoverflow.com/questions/22693509/how-can-i-launch-an-applescript-application-and-run-shell-scripts-from-another-a | osx - How can I launch an AppleScript application and run shell scripts from another AppleScript? - Stack Overflow
+http://apple.stackexchange.com/questions/115114/how-to-put-a-custom-launcher-in-the-dock-mavericks | osx - How to put a custom launcher in the Dock (Mavericks) - Ask Different
+http://stackoverflow.com/questions/11206872/open-xterm-telnet-connection-mac-os-x | osx - Open xterm telnet connection (Mac OS X) - Stack Overflow
+http://apple.blogoverflow.com/2011/10/applescript-workspace-based-app-launcher/ | AppleScript: Workspace-based App Launcher « Ask Different Blog
+http://apple.blogoverflow.com/category/applescript/ | AppleScript « Ask Different Blog
+http://apple.blogoverflow.com/2011/11/applescript-a-framework-to-speed-up-your-login-time/ | AppleScript: A framework to speed up your login time « Ask Different Blog
+http://apple.blogoverflow.com/2011/09/introduction-to-applescript-post-1-of-5/ | Introduction to AppleScript: Hello World « Ask Different Blog
+http://www.engadget.com/2008/02/02/applescript-build-a-simple-task-launcher/ | AppleScript: build a simple task launcher
+
+https://www.google.com/search?q=complexity+theory+code+bases+over+time&oq=complexity+theory+code+bases+over+time&aqs=chrome..69i57.8886j0j7&sourceid=chrome&es_sm=119&ie=UTF-8#q=system+complexity+theory+code+bases+over+time | system complexity theory code bases over time - Google Search
+http://www.sciencemag.org/news/2015/11/mathematician-claims-breakthrough-complexity-theory | Mathematician claims breakthrough in complexity theory | Science | AAAS
+http://sail.cs.queensu.ca/Downloads/IWPSE2003_TheChaosOfSoftwareDevelopment.pdf | sail.cs.queensu.ca/Downloads/IWPSE2003_TheChaosOfSoftwareDevelopment.pdf
+https://en.wikipedia.org/wiki/Information_theory | Information theory - Wikipedia, the free encyclopedia
+https://cyber.law.harvard.edu/fallsem98/final_papers/Maher.html | Complexity and Code: the Pitfalls of Regulation in Adaptive Systems
+http://cacm.acm.org/magazines/2010/1/55760-what-should-we-teach-new-software-developers-why/fulltext | What Should We Teach New Software Developers? Why? | January 2010 | Communications of the ACM
+http://lithespeed.com/resources/Agile-Project-Management-Steering-from-the-Edges.pdf | Agile-Project-Management-Steering-from-the-Edges.pdf
+https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=10&ved=0ahUKEwjUl_eav43LAhVKeD4KHRXoAuoQFghZMAk&url=http%3A%2F%2Fciteseerx.ist.psu.edu%2Fviewdoc%2Fdownload%3Fdoi%3D10.1.1.3.7135%26rep%3Drep1%26type%3Dpdf&usg=AFQjCNHNIPFipgVgT6zghPEQNtb8t1kaFg&bvm=bv.114733917,d.cWw | https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=10&ved=0ahUKEwjUl_eav43LAhVKeD4KHRXoAuoQFghZMAk&url=http%3A%2F%2Fciteseerx.ist.psu.edu%2Fviewdoc%2Fdownload%3Fdoi%3D10.1.1.3.7135%26rep%3Drep1%26type%3Dpdf&usg=AFQjCNHNIPFipgVgT6zghPEQNtb8t1kaFg&bvm=bv.114733917,d.cWw
+http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.3.7135&rep=rep1&type=pdf | citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.3.7135&rep=rep1&type=pdf
+https://www.google.com/search?biw=1440&bih=805&q=related:citeseerx.ist.psu.edu/viewdoc/download%3Fdoi%3D10.1.1.3.7135%26rep%3Drep1%26type%3Dpdf+system+complexity+theory+code+bases+over+time&tbo=1&sa=X&ved=0ahUKEwjUl_eav43LAhVKeD4KHRXoAuoQHwhdMAk | related:citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.3.7135&rep=rep1&type=pdf system complexity theory code bases over time - Google Search
+http://www.informationweek.com/architecture/why-your-software-development-process-is-broken/d/d-id/1111510? | Why Your Software Development Process Is Broken - InformationWeek
+http://flosshub.org/sites/flosshub.org/files/2011-03_CSMR.pdf | flosshub.org/sites/flosshub.org/files/2011-03_CSMR.pdf
+https://www.computer.org/csdl/proceedings/scam/2013/9999/00/06648195.pdf | https://www.computer.org/csdl/proceedings/scam/2013/9999/00/06648195.pdf
+http://www.jhuapl.edu/techdigest/TD/td2604/Hanke.pdf | www.jhuapl.edu/techdigest/TD/td2604/Hanke.pdf
+http://thomas-zimmermann.com/publications/files/whitehead-emse-2012.pdf | whitehead-emse-2012.pdf
+https://www.google.com/search?q=ase.csc.ncsu.edu+dmse&oq=ase.csc.ncsu.edu+dmse&aqs=chrome..69i57.2695j0j4&sourceid=chrome&es_sm=119&ie=UTF-8 | ase.csc.ncsu.edu dmse - Google Search
+https://sites.google.com/site/asergrp/dmse | dmse - asergrp
+https://sites.google.com/site/asergrp/dmse/setasks | SETasks - asergrp
+https://sites.google.com/site/asergrp/dmse/sedata | SEData - asergrp
+https://sites.google.com/site/asergrp/dmse/miningalgs | MiningAlgs - asergrp
+https://sites.google.com/site/asergrp/dmse/miningalgs#automaton | MiningAlgs - asergrp
+https://sites.google.com/site/asergrp/dmse/miningalgs#concept | MiningAlgs - asergrp
+https://sites.google.com/site/asergrp/dmse/miningalgs#abstraction | MiningAlgs - asergrp
+https://sites.google.com/site/asergrp/dmse/miningalgs.html#association | Page not found - asergrp
+http://research.cs.queensu.ca/home/ahmed/home/teaching/CISC880/F11/slides/dmse-icse10-tutorial.pdf | dmse-icse10-tutorial.pdf
+
+https://www.google.com/search?q=go+command+line&oq=go+command+line&aqs=chrome..69i57j0l5.2321j0j7&sourceid=chrome&es_sm=119&ie=UTF-8 | go command line - Google Search
+https://gobyexample.com/command-line-arguments | Go by Example: Command-Line Arguments
+https://gobyexample.com/command-line-flags | Go by Example: Command-Line Flags
+https://github.com/codegangsta/cli | codegangsta/cli: A small package for building command line apps in Go
+https://golang.org/doc/install | Getting Started - The Go Programming Language
+https://golang.org/pkg/flag/ | flag - The Go Programming Language
+http://thenewstack.io/cli-command-line-programming-with-go/ | CLI: Command Line Programming with Go - The New Stack
+http://nathanleclaire.com/blog/2014/08/31/why-codegangstas-cli-package-is-the-bomb-and-you-should-use-it/ | Why codegangsta's cli package is the bomb, and you should use it | I care, I share, I'm Nathan LeClaire.
+http://stackoverflow.com/questions/2707434/how-to-access-command-line-arguments-passed-to-a-go-program | How to access command-line arguments passed to a Go program? - Stack Overflow
+
+https://www.google.com/search?q=etcd&oq=etcd&aqs=chrome..69i57j0l5.1857j0j7&sourceid=chrome&es_sm=119&ie=UTF-8 | etcd - Google Search
+https://www.datadoghq.com/etcd-monitoring/ | etcd Monitoring - Datadog
+https://github.com/coreos/etcd | coreos/etcd: Distributed reliable key-value store for the most critical data of a distributed system
+https://raft.github.io/ | Raft Consensus Algorithm
+https://coreos.com/etcd/ | Using etcd with CoreOS
+https://www.google.com/search?q=swim+v+paxos&oq=swim+v+paxos&aqs=chrome..69i57j69i59.4185j0j7&sourceid=chrome&es_sm=119&ie=UTF-8#q=swim+v+paxos+consensus+algorithm | swim v paxos consensus algorithm - Google Search
+https://cwiki.apache.org/confluence/display/ZOOKEEPER/Zab+vs.+Paxos | Zab vs. Paxos - Apache ZooKeeper - Apache Software Foundation
+http://jasonwilder.com/blog/2014/02/04/service-discovery-in-the-cloud/ | Open-Source Service Discovery ·
+https://github.com/ha/doozerd | ha/doozerd: A consistent distributed data store.
+https://labs.spotify.com/2013/02/25/in-praise-of-boring-technology/ | In praise of “boring” technology | Labs
+https://labs.spotify.com/2016/01/26/sdn-internet-router-part-1/ | SDN Internet Router – Part 1 | Labs
+https://labs.spotify.com/2015/12/16/a-101-on-11s/ | A 101 on 1:1s | Labs
+https://labs.spotify.com/2016/01/27/sdn-internet-router-part-2/ | SDN Internet Router – Part 2 | Labs
+https://labs.spotify.com/2015/12/08/els-part-1/ | ELS: latency based load balancer, part 1 | Labs
+https://labs.spotify.com/2015/12/09/els-part-2/ | ELS: a latency-based load balancer, part 2 | Labs
+https://labs.spotify.com/2016/02/08/technical-career-path/ | Building a technical career path at Spotify | Labs
+https://labs.spotify.com/2016/02/22/things-we-learned-creating-technology-career-steps/ | Things We Learned Creating Technology Career Steps | Labs
+https://labs.spotify.com/2016/02/15/spotify-technology-career-steps/ | Spotify Technology Career Steps | Labs
+
+https://github.com/jim-cooley/bash.cli/tree/master/bin | bash.cli/bin at master · jim-cooley/bash.cli
+https://mail.google.com/mail/u/0/#inbox | Inbox (379) - jim-cooley@cooley.io - The Cooley Family Mail
+https://www.pivotaltracker.com/n/projects/1471320 | Xenon - Pivotal Tracker
+https://github.com/vmware | VMware
+https://github.com/vmware/xenon | vmware/xenon: Xenon - Decentralized Control Plane Framework
+https://github.com/vmware/xenon/wiki/Developer-Guide | Developer Guide · vmware/xenon Wiki
+http://tbaggery.com/2008/04/19/a-note-about-git-commit-messages.html | tbaggery - A Note About Git Commit Messages
+https://github.com/vmware/xenon/wiki/Design | Design · vmware/xenon Wiki
+https://github.com/vmware/xenon/wiki/DeveloperGuide | Create New Page · vmware/xenon Wiki
+https://github.com/vmware/xenon/wiki/Service-Directory | Service Directory · vmware/xenon Wiki
+https://github.com/vmware/xenon/wiki/Example-Service-Tutorial#example-service-code | Example Service Tutorial · vmware/xenon Wiki
+https://github.com/vmware/xenon/wiki/REST-API#helper-services | REST API · vmware/xenon Wiki
+https://github.com/vmware/xenon/wiki/Programming-Model | Programming Model · vmware/xenon Wiki
+https://github.com/vmware/xenon/wiki/REST-API | REST API · vmware/xenon Wiki
+https://github.com/vmware/xenon/wiki/book | book · vmware/xenon Wiki
+https://github.com/vmware/xenon/wiki/Comparison | Comparison · vmware/xenon Wiki
+https://github.com/vmware/xenon/wiki/Cutting-a-release | Cutting a release · vmware/xenon Wiki
+
+https://launchpad.net/+search?field.text=vmware&field.actions.search=Search | Pages matching "vmware" in Launchpad
+https://launchpad.net/docky | Docky in Launchpad
+https://code.launchpad.net/~docky-core/docky/trunk | trunk : Code : Docky
+https://launchpad.net/~openstack-cla | OpenStack Contributors in Launchpad
+https://wiki.openstack.org/wiki/How_To_Contribute | How To Contribute - OpenStack
+https://ask.openstack.org/en/questions/ | Questions - Ask OpenStack: Q&A Site for OpenStack Users and Developers
+https://wiki.openstack.org/wiki/Mailing_Lists | Mailing Lists - OpenStack
+https://wiki.openstack.org/wiki/Release_Cycle | Release Cycle - OpenStack
+https://wiki.openstack.org/wiki/Open | Open - OpenStack
+https://github.com/openstack/trove | openstack/trove
+http://docs.openstack.org/infra/manual/developers.html | Developer’s Guide — OpenStack Project Infrastructure Manual 0.0.1.dev226 documentation
+https://wiki.openstack.org/wiki/Blueprints | Blueprints - OpenStack
+https://review.openstack.org/#/q/status:open | status:open | review.openstack Code Review
+https://wiki.openstack.org/wiki/LoggingStandards | LoggingStandards - OpenStack
+https://bugs.launchpad.net/openstack | Bugs : OpenStack
+http://docs.openstack.org/project-team-guide/release-management.html | Release Management — OpenStack Project Team Guide 0.0.1.dev79 documentation
+https://wiki.openstack.org/wiki/Bugs | Bugs - OpenStack
+https://launchpad.net/~docker-maint/+archive/ubuntu/testing | Docker testing PPA : “Docker Ubuntu Maintainers” team
+https://launchpad.net/vmware-nsx | vmware-nsx in Launchpad
+https://launchpad.net/ubuntu/%2Bsource/vmware-view-client | vmware-view-client package : Ubuntu
+https://launchpad.net/ubuntu/+source/open-vm-tools | open-vm-tools package : Ubuntu
+https://launchpad.net/ubuntu/+source/vmware-player-kernel-2.6.15 | vmware-player-kernel-2.6.15 package : Ubuntu
+
+https://www.privateinternetaccess.com/ | Anonymous VPN Service From The Leaders | Private Internet Access
+
+https://sslvpn.vmware.com/dana-na/auth/url_default/welcome.cgi | VMware Secure Access SSL VPN
+
+http://www.infoq.com/articles/apache-spark-sql | Big Data Processing with Apache Spark - Part 2: Spark SQL
+http://www.infoq.com/vendorcontent/sign_in.action | Cloud-Based Java Development: Choosing the Right PaaS
+http://www.infoq.com/vendorcontent/show.action?vcr=3702&utm_source=infoq&utm_medium=VCR_ThankYouPage&utm_content=link_0 | Migrating to the Cloud: A Cookbook for the Enterprise
+http://www.infoq.com/vendorcontent/show.action?vcr=3728&utm_source=infoq&utm_medium=VCR_ThankYouPage&utm_content=link_1 | DevOps: Hidden Risks and How to Achieve Results
+http://www.infoq.com/vendorcontent/show.action?vcr=3727&utm_source=infoq&utm_medium=VCR_ThankYouPage&utm_content=link_2 | Goodbye war room, hello DevOps 2.0
+http://www.infoq.com/vendorcontent/show.action?vcr=3738 | MongoDB vs. Couchbase Server: Architectural Differences and their Impact
+http://www.infoq.com/vendorcontent/show.action?vcr=3718 | Moving from Relational to NoSQL: How to Get Started
+http://www.infoq.com/vendorcontent/show.action?vcr=3704&utm_source=infoq&utm_medium=VCR&utm_campaign=vcr_articles_click | Never Write Another JOIN: The RDBMS Dev’s Guide to Graph Databases
+http://www.infoq.com/vendorcontent/show.action?vcr=3448&utm_source=infoq&utm_medium=VCR&utm_campaign=vcr_articles_click | Beyond RDBMS: A Guide To NoSQL Databases
+
+https://www.google.com/search?q=graph+based+databases+and+analytics+window+functions&oq=graph+based+databases+and+analytics+window+functions&aqs=chrome..69i57.14342j0j4&sourceid=chrome&es_sm=119&ie=UTF-8 | graph based databases and analytics window functions - Google Search
+http://arxiv.org/abs/1510.07104 | [1510.07104] Supporting Window Analytics over Large-scale Dynamic Graphs
+http://vldb.org/pvldb/vol5/p1244_yucao_vldb2012.pdf | http://vldb.org/pvldb/vol5/p1244_yucao_vldb2012.pdf is not available
+http://www.vldb.org/pvldb/vol8/p1058-leis.pdf | http://www.vldb.org/pvldb/vol8/p1058-leis.pdf is not available
+http://www.ndm.net/datawarehouse/Vertica/advanced-in-database-analytics | Advanced In-Database Analytics | Vertica
+http://dl.acm.org/citation.cfm?id=2744689 | Towards Window Analytics over Large-scale Graphs
+http://www.comp.nus.edu.sg/~wangzk/document/GWQ.pdf | 403 Forbidden
+http://snowplowanalytics.com/blog/2014/07/28/explorations-in-analyzing-web-event-data-in-graph-databases/ | Can graph databases enable whole new classes of event analytics? – Snowplow
+http://snowplowanalytics.com/blog/2014/07/30/loading-snowplow-web-event-data-into-graph-databases-for-pathing-analysis/ | Loading Snowplow event-level data into Neo4J – Snowplow
+http://snowplowanalytics.com/blog/2014/07/31/using-graph-databases-to-perform-pathing-analysis-initial-experimentation-with-neo4j/ | Using graph databases to perform pathing analysis - initial experiments with Neo4J – Snowplow
+http://neo4j.com/graphgist/c21486f569df546769a7/ | Preview - Neo4j GraphGists
+http://neo4j.com/docs/stable/cypher-expressions.html | 9.2. Expressions - - The Neo4j Manual v2.3.2
+http://neo4j.com/docs/stable/cypher-refcard/ | Neo4j Cypher Refcard 2.3.2
+
+https://mail.google.com/mail/u/0/#inbox | Inbox (12) - jim@cooley.io - The Cooley Family Mail
+https://email.vmware.com/owa/?bO=1#path=/mail | Jim Cooley - Outlook Web App
+http://vmware.jobs/seattle-wa/software-development-engineer-cto-office-msbu/6F9A0608C43047D18B2FA23B2C19E68D/job/ | VMware Jobs - Software Development Engineer - CTO Office / MSBU in Seattle, Washington, United States
+https://github.com/vmware/xenon/wiki/Developer-Guide | Developer Guide · vmware/xenon Wiki
+https://www.linkedin.com/messaging/thread/6101340147138256897 | Messaging | LinkedIn
+http://venturebeat.com/2016/02/12/devops-and-the-enterprise-podcast-with-automic-cto-john-purrier/ | DevOps and the enterprise: Podcast with Automic CTO John Purrier | VentureBeat | Enterprise | by Dylan Tweney
+https://calendar.google.com/calendar/render?tab=mc&pli=1#main_7 | The Cooley Family - Calendar - Week of Feb 14, 2016
+http://vcloud.vmware.com/ | Cloud Computing is vCloud Air by VMware
+https://loginsight.slack.com/messages/general/team/jimcooley/ | general | Log Insight Slack
+https://slack.com/apps | App Directory | Slack
+http://ember-cli.com/ember-cli-deploy/docs/v0.5.x/deployment-strategies-overview/ | Deployment Strategies Overview · Ember CLI Deploy
+http://www.vektra.com/ | Vektra
+https://github.com/vektra/templar | vektra/templar: A HTTP proxy to improve usage of HTTP APIs
+http://www.somethingsimilar.com/2013/01/14/notes-on-distributed-systems-for-young-bloods/ | 
+https://github.com/ghedamat/ember-deploy-demo | ghedamat/ember-deploy-demo: An example project for deploying ember applications
+http://ember-cli.com/ember-cli-deploy/docs/v0.5.x/the-lightning-strategy/ | 
+
+https://en.wikipedia.org/wiki/Select_(SQL)#ROW_NUMBER.28.29_window_function | Select (SQL) - Wikipedia, the free encyclopedia
+https://www.google.com/search?q=Windowed+Tables+and+Window+function+in+SQL&oq=Windowed+Tables+and+Window+function+in+SQL&aqs=chrome..69i57.907j0j4&sourceid=chrome&es_sm=119&ie=UTF-8 | 
+http://blog.jooq.org/2013/11/03/probably-the-coolest-sql-feature-window-functions/ | Probably the Coolest SQL Feature: Window Functions | Java, SQL and jOOQ.
+https://www.simple-talk.com/sql/t-sql-programming/window-functions-in-sql/ | Window Functions in SQL
+https://sqlschool.modeanalytics.com/advanced/window-functions/ | Window Functions
+http://www.postgresql.org/docs/9.1/static/tutorial-window.html | PostgreSQL: Documentation: 9.1: Window Functions
+http://www.postgresql.org/docs/8.4/static/functions-window.html | PostgreSQL: Documentation: 8.4: Window Functions
+https://sqlschool.modeanalytics.com/other-resources/sql-syntax-guide/ | SQL Syntax Guide
+http://docs.oracle.com/cd/E11882_01/server.112/e41084/functions004.htm#SQLRF06174 | Analytic Functions
+http://www.cloudera.com/documentation/archive/impala/2-x/2-1-x/topics/impala_analytic_functions.html?scroll=analytic_functions | Analytic Functions
+http://www.info.teradata.com/templates/eSrchResults.cfm?prodline=&txtpid=&txtrelno=&txtttlkywrd=SQLREF,TNTSEQ&rdsort=Title&srtord=Asc&nm=SQL+Reference | Teradata - Results Page
+https://my.vertica.com/docs/7.0.x/PDF/HP_Vertica_7.0.x_SQL_Reference_Manual.pdf | HP Vertica Analytics Platform 7.0.x SQL Reference Manual
+http://docs.aws.amazon.com/redshift/latest/dg/r_Window_function_examples.html | Window Function Examples - Amazon Redshift
+http://docs.aws.amazon.com/redshift/latest/dg/c_redshift-and-postgres-sql.html | Amazon Redshift and PostgreSQL - Amazon Redshift
+https://cwiki.apache.org/confluence/display/Hive/LanguageManual+WindowingAndAnalytics | LanguageManual WindowingAndAnalytics - Apache Hive - Apache Software Foundation
+https://msdn.microsoft.com/en-us/library/ms189461.aspx | OVER Clause (Transact-SQL)
+https://msdn.microsoft.com/en-us/library/ff878370.aspx | NEXT VALUE FOR (Transact-SQL)
+https://msdn.microsoft.com/en-us/library/hh213234.aspx | Analytic Functions (Transact-SQL)
+http://sqlmag.com/sql-server-2012/how-use-microsoft-sql-server-2012s-window-functions-part-1 | How to Use Microsoft SQL Server 2012's Window Functions, Part 1 | SQL Server 2012 content from SQL Server Pro
+https://www.google.com/search?q=sparkql+syntax&oq=sparkql+syntax&aqs=chrome..69i57j0l5.4318j0j7&sourceid=chrome&es_sm=119&ie=UTF-8#q=hive+sql+query+language | hive sql query language - Google Search
+https://cloud.google.com/bigquery/query-reference#windowfunctions | Query Reference - BigQuery — Google Cloud Platform
+https://spark-summit.org/2014/wp-content/uploads/2014/07/Performing-Advanced-Analytics-on-Relational-Data-with-Spark-SQL-Michael-Armbrust.pdf | Spark SQL - Spark Summit June 2014
+http://spark.apache.org/docs/latest/sql-programming-guide.html#distributed-sql-engine | Spark SQL and DataFrames - Spark 1.6.0 Documentation
+https://people.csail.mit.edu/matei/papers/2015/sigmod_spark_sql.pdf | sigmod_spark_sql.pdf
